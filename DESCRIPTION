@@ -1,0 +1,12 @@
+Package: bps5data
+Title: Datasets from The Basic Practice of Statistics, 5th ed.
+Version: 1.0.0
+Authors@R: as.person(c("Jeffrey B. Arnold <jeffrey.arnold@gmail.com> [aut,
+    cre]", "R Core team [ctb] (Some code extracted from promptData.)"))
+Description: This is a data only package containing datasets from the
+    introductory statistics textbook: Moore (2009) "The Basic Practice of
+    Statistics", 5th ed.
+Depends:
+    R (>= 3.1.2)
+License: GPL-3
+LazyData: true
