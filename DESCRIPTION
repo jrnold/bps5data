@@ -1,6 +1,6 @@
 Package: bps5data
 Title: Datasets from The Basic Practice of Statistics, 5th ed.
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: as.person(c("Jeffrey B. Arnold <jeffrey.arnold@gmail.com> [aut,
     cre]", "R Core team [ctb] (Some code extracted from promptData.)"))
 Description: This is a data only package containing datasets from the
