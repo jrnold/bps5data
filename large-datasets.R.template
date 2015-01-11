@@ -1,0 +1,23 @@
+{{#datasets}}
+#' {{{name}}} data
+#'
+#' Dataset {{{name}}} \emph{The Basic Practice of Statistics}, 5th edition.
+#'
+{{#description}}
+#' {{{.}}}
+{{/description}}
+#'
+#' @name {{{name}}}
+#' @docType data
+#' @usage data("{{{name}}}")
+#' @format \Sexpr[results=rd]{bps5data:::doc_data("{{{name}}}", variables = FALSE)}
+#' \describe{
+{{#variables}}
+#' \item{ {{{name}}} }{ {{{label}}} }
+{{/variables}}
+#' }
+#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
+#' @source \url{ {{{url}}} }
+NULL
+
+{{/datasets}}
