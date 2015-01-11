@@ -17,4 +17,24 @@ Data from Exercise 25.22 of \emph{The Basic Practice of Statistics}, 5th edition
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 25 of \emph{BPS} 5th ed.: \code{\link{eg25.01}};
+  \code{\link{eg25.05}}; \code{\link{eg25.06}};
+  \code{\link{eg25.09}}; \code{\link{eg25.10}};
+  \code{\link{ex25.01}}; \code{\link{ex25.02}};
+  \code{\link{ex25.05}}; \code{\link{ex25.06}};
+  \code{\link{ex25.07}}; \code{\link{ex25.08}};
+  \code{\link{ex25.11}}; \code{\link{ex25.12}};
+  \code{\link{ex25.13}}; \code{\link{ex25.14}};
+  \code{\link{ex25.15}}; \code{\link{ex25.16}};
+  \code{\link{ex25.18}}; \code{\link{ex25.19}};
+  \code{\link{ex25.21}}; \code{\link{ex25.23}};
+  \code{\link{ex25.24}}; \code{\link{ex25.25}};
+  \code{\link{ex25.26}}; \code{\link{ex25.27}};
+  \code{\link{ex25.28}}; \code{\link{ex25.29}};
+  \code{\link{ex25.30}}; \code{\link{ex25.42}};
+  \code{\link{ex25.43}}; \code{\link{ex25.44}};
+  \code{\link{ex25.45}}; \code{\link{ex25.48}};
+  \code{\link{ex25.49}}; \code{\link{ta25.01}}
+}
 

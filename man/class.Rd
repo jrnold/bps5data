@@ -28,4 +28,12 @@ Data provided by students (n=270) in a freshman-level course. It is of course ev
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other large datasets from \emph{BPS} 5th ed.: \code{\link{bliss}};
+  \code{\link{call}}; \code{\link{concept}};
+  \code{\link{education}}; \code{\link{floridavote}};
+  \code{\link{foodsafety}}; \code{\link{income}};
+  \code{\link{literacy}}; \code{\link{newt}};
+  \code{\link{reading}}; \code{\link{verizon}}
+}
 

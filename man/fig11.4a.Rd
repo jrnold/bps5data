@@ -17,4 +17,7 @@ Data from Figure 11.4a of \emph{The Basic Practice of Statistics}, 5th edition.
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 11 of \emph{BPS} 5th ed.: \code{\link{fig11.4b}}
+}
 

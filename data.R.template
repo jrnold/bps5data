@@ -5,6 +5,7 @@
 #'
 #' @name {{{name}}}
 #' @docType data
+#' @family {{{family}}}
 #' @usage data("{{{name}}}")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("{{{name}}}") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.

@@ -9,6 +9,7 @@
 #'
 #' @name {{{name}}}
 #' @docType data
+#' @family {{{family}}}
 #' @usage data("{{{name}}}")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("{{{name}}}", variables = FALSE)}
 #' \describe{

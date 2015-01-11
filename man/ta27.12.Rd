@@ -17,4 +17,17 @@ Data from Table 27.12 of \emph{The Basic Practice of Statistics}, 5th edition.
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 27 of \emph{BPS} 5th ed.: \code{\link{eg27.11}};
+  \code{\link{ex27.07}}; \code{\link{ex27.15}};
+  \code{\link{ex27.45}}; \code{\link{ex27.48}};
+  \code{\link{ex27.51}}; \code{\link{ta27.01}};
+  \code{\link{ta27.02}}; \code{\link{ta27.03}};
+  \code{\link{ta27.04}}; \code{\link{ta27.05}};
+  \code{\link{ta27.06}}; \code{\link{ta27.07}};
+  \code{\link{ta27.08}}; \code{\link{ta27.09}};
+  \code{\link{ta27.10}}; \code{\link{ta27.11}};
+  \code{\link{ta27.13}}; \code{\link{ta27.14}};
+  \code{\link{ta27.15}}; \code{\link{ta27.16}}
+}
 

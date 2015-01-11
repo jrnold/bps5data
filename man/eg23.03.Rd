@@ -17,4 +17,21 @@ Data from Example 23.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 23 of \emph{BPS} 5th ed.: \code{\link{eg23.07}};
+  \code{\link{eg23.09}}; \code{\link{ex23.01}};
+  \code{\link{ex23.02}}; \code{\link{ex23.06}};
+  \code{\link{ex23.07}}; \code{\link{ex23.08}};
+  \code{\link{ex23.09}}; \code{\link{ex23.10}};
+  \code{\link{ex23.14}}; \code{\link{ex23.15}};
+  \code{\link{ex23.28}}; \code{\link{ex23.29}};
+  \code{\link{ex23.32}}; \code{\link{ex23.33}};
+  \code{\link{ex23.34}}; \code{\link{ex23.36}};
+  \code{\link{ex23.37}}; \code{\link{ex23.38}};
+  \code{\link{ex23.39}}; \code{\link{ex23.41}};
+  \code{\link{ex23.42}}; \code{\link{ex23.43}};
+  \code{\link{ex23.44}}; \code{\link{ex23.45}};
+  \code{\link{ex23.46}}; \code{\link{ta23.01}};
+  \code{\link{ta23.02}}; \code{\link{ta23.03}}
+}
 

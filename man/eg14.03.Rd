@@ -17,4 +17,13 @@ Data from Example 14.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 14 of \emph{BPS} 5th ed.: \code{\link{eg14.05}};
+  \code{\link{ex14.04}}; \code{\link{ex14.05}};
+  \code{\link{ex14.19}}; \code{\link{ex14.20}};
+  \code{\link{ex14.50}}; \code{\link{ex14.51}};
+  \code{\link{ex14.52}}; \code{\link{ex14.53}};
+  \code{\link{ex14.54}}; \code{\link{ex14.55}};
+  \code{\link{ex14.56}}
+}
 

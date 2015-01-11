@@ -17,4 +17,21 @@ Data from Table 07.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 7 of \emph{BPS} 5th ed.: \code{\link{ex07.03}};
+  \code{\link{ex07.04}}; \code{\link{ex07.05}};
+  \code{\link{ex07.06}}; \code{\link{ex07.07}};
+  \code{\link{ex07.08}}; \code{\link{ex07.09a}};
+  \code{\link{ex07.09b}}; \code{\link{ex07.10a}};
+  \code{\link{ex07.10b}}; \code{\link{ex07.19}};
+  \code{\link{ex07.22}}; \code{\link{ex07.23}};
+  \code{\link{ex07.24}}; \code{\link{ex07.25}};
+  \code{\link{ex07.32}}; \code{\link{ex07.34}};
+  \code{\link{ex07.40}}; \code{\link{ex07.41}};
+  \code{\link{ex07.43}}; \code{\link{ex07.45}};
+  \code{\link{ex07.46}}; \code{\link{ex07.47}};
+  \code{\link{ex07.48}}; \code{\link{ex07.50}};
+  \code{\link{ta07.01}}; \code{\link{ta07.02}};
+  \code{\link{ta07.04}}; \code{\link{ta07.xx}}
+}
 

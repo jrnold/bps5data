@@ -17,4 +17,7 @@ Data from Exercise 15.36 of \emph{The Basic Practice of Statistics}, 5th edition
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 15 of \emph{BPS} 5th ed.: \code{\link{ex15.41}}
+}
 

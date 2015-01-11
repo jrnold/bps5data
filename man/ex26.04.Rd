@@ -17,4 +17,14 @@ Data from Exercise 26.04 of \emph{The Basic Practice of Statistics}, 5th edition
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 26 of \emph{BPS} 5th ed.: \code{\link{ex26.15}};
+  \code{\link{ex26.29}}; \code{\link{ex26.35}};
+  \code{\link{ex26.39}}; \code{\link{ex26.43}};
+  \code{\link{ta26.01}}; \code{\link{ta26.02}};
+  \code{\link{ta26.04}}; \code{\link{ta26.05}};
+  \code{\link{ta26.06}}; \code{\link{ta26.07}};
+  \code{\link{ta26.08}}; \code{\link{ta26.09}};
+  \code{\link{ta26.10}}
+}
 

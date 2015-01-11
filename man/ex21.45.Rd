@@ -17,4 +17,9 @@ Data from Exercise 21.45 of \emph{The Basic Practice of Statistics}, 5th edition
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 21 of \emph{BPS} 5th ed.: \code{\link{ex21.41}};
+  \code{\link{ex21.42}}; \code{\link{ex21.48}};
+  \code{\link{ex21.50}}; \code{\link{ta21.01}}
+}
 

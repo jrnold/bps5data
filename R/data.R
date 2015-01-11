@@ -4,6 +4,7 @@
 #'
 #' @name eg01.02
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("eg01.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg01.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -16,6 +17,7 @@ NULL
 #'
 #' @name eg01.03
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("eg01.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg01.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -28,6 +30,7 @@ NULL
 #'
 #' @name eg01.04
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("eg01.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg01.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -40,6 +43,7 @@ NULL
 #'
 #' @name eg01.06
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("eg01.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg01.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -52,6 +56,7 @@ NULL
 #'
 #' @name eg01.07
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("eg01.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg01.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -64,6 +69,7 @@ NULL
 #'
 #' @name eg01.09
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("eg01.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg01.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -76,6 +82,7 @@ NULL
 #'
 #' @name eg01.10
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("eg01.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg01.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -88,6 +95,7 @@ NULL
 #'
 #' @name ex01.03
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -100,6 +108,7 @@ NULL
 #'
 #' @name ex01.04
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -112,6 +121,7 @@ NULL
 #'
 #' @name ex01.05
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -124,6 +134,7 @@ NULL
 #'
 #' @name ex01.09
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -136,6 +147,7 @@ NULL
 #'
 #' @name ex01.11
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.11")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.11") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -148,6 +160,7 @@ NULL
 #'
 #' @name ex01.12
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.12")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.12") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -160,6 +173,7 @@ NULL
 #'
 #' @name ex01.19
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.19")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.19") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -172,6 +186,7 @@ NULL
 #'
 #' @name ex01.25
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.25")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.25") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -184,6 +199,7 @@ NULL
 #'
 #' @name ex01.26
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.26")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.26") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -196,6 +212,7 @@ NULL
 #'
 #' @name ex01.29
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.29")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.29") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -208,6 +225,7 @@ NULL
 #'
 #' @name ex01.31
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.31")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.31") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -220,6 +238,7 @@ NULL
 #'
 #' @name ex01.32
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.32")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.32") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -232,6 +251,7 @@ NULL
 #'
 #' @name ex01.37
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.37")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.37") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -244,6 +264,7 @@ NULL
 #'
 #' @name ex01.38
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.38")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.38") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -256,6 +277,7 @@ NULL
 #'
 #' @name ex01.42
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.42")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.42") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -268,6 +290,7 @@ NULL
 #'
 #' @name ex01.44
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.44")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.44") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -280,6 +303,7 @@ NULL
 #'
 #' @name ex01.45
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ex01.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex01.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -292,6 +316,7 @@ NULL
 #'
 #' @name ta01.01
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ta01.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta01.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -304,6 +329,7 @@ NULL
 #'
 #' @name ta01.02
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ta01.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta01.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -316,6 +342,7 @@ NULL
 #'
 #' @name ta01.03
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ta01.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta01.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -328,6 +355,7 @@ NULL
 #'
 #' @name ta01.04
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ta01.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta01.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -340,6 +368,7 @@ NULL
 #'
 #' @name ta01.05
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ta01.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta01.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -352,6 +381,7 @@ NULL
 #'
 #' @name ta01.06
 #' @docType data
+#' @family datasets from Chapter 1 of \emph{BPS} 5th ed.
 #' @usage data("ta01.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta01.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -364,6 +394,7 @@ NULL
 #'
 #' @name eg02.01
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("eg02.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg02.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -376,6 +407,7 @@ NULL
 #'
 #' @name eg02.03
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("eg02.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg02.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -388,6 +420,7 @@ NULL
 #'
 #' @name eg02.07
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("eg02.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg02.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -400,6 +433,7 @@ NULL
 #'
 #' @name ex02.01
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -412,6 +446,7 @@ NULL
 #'
 #' @name ex02.06
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -424,6 +459,7 @@ NULL
 #'
 #' @name ex02.11
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.11")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.11") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -436,6 +472,7 @@ NULL
 #'
 #' @name ex02.13
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.13")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.13") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -448,6 +485,7 @@ NULL
 #'
 #' @name ex02.14
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.14")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.14") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -460,6 +498,7 @@ NULL
 #'
 #' @name ex02.15
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.15")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.15") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -472,6 +511,7 @@ NULL
 #'
 #' @name ex02.28
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.28")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.28") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -484,6 +524,7 @@ NULL
 #'
 #' @name ex02.32
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.32")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.32") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -496,6 +537,7 @@ NULL
 #'
 #' @name ex02.35
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -508,6 +550,7 @@ NULL
 #'
 #' @name ex02.44
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.44")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.44") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -520,6 +563,7 @@ NULL
 #'
 #' @name ex02.48
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.48")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.48") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -532,6 +576,7 @@ NULL
 #'
 #' @name ex02.49
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.49")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.49") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -544,6 +589,7 @@ NULL
 #'
 #' @name ex02.52
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ex02.52")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex02.52") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -556,6 +602,7 @@ NULL
 #'
 #' @name ta02.01
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ta02.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta02.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -568,6 +615,7 @@ NULL
 #'
 #' @name ta02.02
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ta02.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta02.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -580,6 +628,7 @@ NULL
 #'
 #' @name ta02.03
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ta02.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta02.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -592,6 +641,7 @@ NULL
 #'
 #' @name ta02.04
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ta02.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta02.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -604,6 +654,7 @@ NULL
 #'
 #' @name ta02.05
 #' @docType data
+#' @family datasets from Chapter 2 of \emph{BPS} 5th ed.
 #' @usage data("ta02.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta02.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -616,6 +667,7 @@ NULL
 #'
 #' @name ex03.46
 #' @docType data
+#' @family datasets from Chapter 3 of \emph{BPS} 5th ed.
 #' @usage data("ex03.46")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex03.46") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -628,6 +680,7 @@ NULL
 #'
 #' @name ex03.49
 #' @docType data
+#' @family datasets from Chapter 3 of \emph{BPS} 5th ed.
 #' @usage data("ex03.49")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex03.49") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -640,6 +693,7 @@ NULL
 #'
 #' @name ex03.50
 #' @docType data
+#' @family datasets from Chapter 3 of \emph{BPS} 5th ed.
 #' @usage data("ex03.50")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex03.50") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -652,6 +706,7 @@ NULL
 #'
 #' @name eg04.03
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("eg04.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg04.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -664,6 +719,7 @@ NULL
 #'
 #' @name ex04.04
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -676,6 +732,7 @@ NULL
 #'
 #' @name ex04.05
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -688,6 +745,7 @@ NULL
 #'
 #' @name ex04.08
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -700,6 +758,7 @@ NULL
 #'
 #' @name ex04.09
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -712,6 +771,7 @@ NULL
 #'
 #' @name ex04.10
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -724,6 +784,7 @@ NULL
 #'
 #' @name ex04.12
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.12")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.12") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -736,6 +797,7 @@ NULL
 #'
 #' @name ex04.13
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.13")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.13") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -748,6 +810,7 @@ NULL
 #'
 #' @name ex04.23
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.23")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.23") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -760,6 +823,7 @@ NULL
 #'
 #' @name ex04.26
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.26")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.26") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -772,6 +836,7 @@ NULL
 #'
 #' @name ex04.27
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.27")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.27") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -784,6 +849,7 @@ NULL
 #'
 #' @name ex04.28
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.28")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.28") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -796,6 +862,7 @@ NULL
 #'
 #' @name ex04.29
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.29")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.29") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -808,6 +875,7 @@ NULL
 #'
 #' @name ex04.30
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.30")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.30") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -820,6 +888,7 @@ NULL
 #'
 #' @name ex04.32
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.32")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.32") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -832,6 +901,7 @@ NULL
 #'
 #' @name ex04.33
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.33")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.33") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -844,6 +914,7 @@ NULL
 #'
 #' @name ex04.35
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -856,6 +927,7 @@ NULL
 #'
 #' @name ex04.42
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.42")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.42") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -868,6 +940,7 @@ NULL
 #'
 #' @name ex04.43
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.43")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.43") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -880,6 +953,7 @@ NULL
 #'
 #' @name ex04.44
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.44")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.44") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -892,6 +966,7 @@ NULL
 #'
 #' @name ex04.45
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ex04.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex04.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -904,6 +979,7 @@ NULL
 #'
 #' @name ta04.01
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ta04.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta04.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -916,6 +992,7 @@ NULL
 #'
 #' @name ta04.02
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ta04.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta04.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -928,6 +1005,7 @@ NULL
 #'
 #' @name ta04.03
 #' @docType data
+#' @family datasets from Chapter 4 of \emph{BPS} 5th ed.
 #' @usage data("ta04.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta04.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -940,6 +1018,7 @@ NULL
 #'
 #' @name eg05.01
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("eg05.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg05.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -952,6 +1031,7 @@ NULL
 #'
 #' @name eg05.05
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("eg05.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg05.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -964,6 +1044,7 @@ NULL
 #'
 #' @name ex05.03
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -976,6 +1057,7 @@ NULL
 #'
 #' @name ex05.04
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -988,6 +1070,7 @@ NULL
 #'
 #' @name ex05.06
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1000,6 +1083,7 @@ NULL
 #'
 #' @name ex05.08
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1012,6 +1096,7 @@ NULL
 #'
 #' @name ex05.10
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1024,6 +1109,7 @@ NULL
 #'
 #' @name ex05.11
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.11")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.11") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1036,6 +1122,7 @@ NULL
 #'
 #' @name ex05.12
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.12")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.12") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1048,6 +1135,7 @@ NULL
 #'
 #' @name ex05.26
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.26")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.26") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1060,6 +1148,7 @@ NULL
 #'
 #' @name ex05.29
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.29")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.29") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1072,6 +1161,7 @@ NULL
 #'
 #' @name ex05.30
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.30")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.30") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1084,6 +1174,7 @@ NULL
 #'
 #' @name ex05.34
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.34")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.34") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1096,6 +1187,7 @@ NULL
 #'
 #' @name ex05.35
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1108,6 +1200,7 @@ NULL
 #'
 #' @name ex05.36
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.36")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.36") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1120,6 +1213,7 @@ NULL
 #'
 #' @name ex05.37
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.37")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.37") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1132,6 +1226,7 @@ NULL
 #'
 #' @name ex05.40
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.40")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.40") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1144,6 +1239,7 @@ NULL
 #'
 #' @name ex05.51
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.51")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.51") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1156,6 +1252,7 @@ NULL
 #'
 #' @name ex05.53
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.53")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.53") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1168,6 +1265,7 @@ NULL
 #'
 #' @name ex05.54
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.54")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.54") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1180,6 +1278,7 @@ NULL
 #'
 #' @name ex05.55
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.55")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.55") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1192,6 +1291,7 @@ NULL
 #'
 #' @name ex05.56
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ex05.56")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex05.56") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1204,6 +1304,7 @@ NULL
 #'
 #' @name ta05.01a
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ta05.01a")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta05.01a") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1216,6 +1317,7 @@ NULL
 #'
 #' @name ta05.01b
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ta05.01b")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta05.01b") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1228,6 +1330,7 @@ NULL
 #'
 #' @name ta05.01c
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ta05.01c")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta05.01c") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1240,6 +1343,7 @@ NULL
 #'
 #' @name ta05.01d
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ta05.01d")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta05.01d") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1252,6 +1356,7 @@ NULL
 #'
 #' @name ta05.02
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ta05.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta05.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1264,6 +1369,7 @@ NULL
 #'
 #' @name ta05.03
 #' @docType data
+#' @family datasets from Chapter 5 of \emph{BPS} 5th ed.
 #' @usage data("ta05.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta05.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1276,6 +1382,7 @@ NULL
 #'
 #' @name ex06.01
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ex06.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex06.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1288,6 +1395,7 @@ NULL
 #'
 #' @name ex06.02
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ex06.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex06.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1300,6 +1408,7 @@ NULL
 #'
 #' @name ex06.18
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ex06.18")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex06.18") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1312,6 +1421,7 @@ NULL
 #'
 #' @name ex06.19
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ex06.19")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex06.19") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1324,6 +1434,7 @@ NULL
 #'
 #' @name ex06.27
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ex06.27")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex06.27") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1336,6 +1447,7 @@ NULL
 #'
 #' @name ex06.28
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ex06.28")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex06.28") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1348,6 +1460,7 @@ NULL
 #'
 #' @name ex06.30
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ex06.30")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex06.30") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1360,6 +1473,7 @@ NULL
 #'
 #' @name ex06.31
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ex06.31")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex06.31") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1372,6 +1486,7 @@ NULL
 #'
 #' @name ta06.01
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ta06.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta06.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1384,6 +1499,7 @@ NULL
 #'
 #' @name ta06.02
 #' @docType data
+#' @family datasets from Chapter 6 of \emph{BPS} 5th ed.
 #' @usage data("ta06.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta06.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1396,6 +1512,7 @@ NULL
 #'
 #' @name ex07.03
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1408,6 +1525,7 @@ NULL
 #'
 #' @name ex07.04
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1420,6 +1538,7 @@ NULL
 #'
 #' @name ex07.05
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1432,6 +1551,7 @@ NULL
 #'
 #' @name ex07.06
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1444,6 +1564,7 @@ NULL
 #'
 #' @name ex07.07
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1456,6 +1577,7 @@ NULL
 #'
 #' @name ex07.08
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1468,6 +1590,7 @@ NULL
 #'
 #' @name ex07.09a
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.09a")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.09a") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1480,6 +1603,7 @@ NULL
 #'
 #' @name ex07.09b
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.09b")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.09b") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1492,6 +1616,7 @@ NULL
 #'
 #' @name ex07.10a
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.10a")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.10a") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1504,6 +1629,7 @@ NULL
 #'
 #' @name ex07.10b
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.10b")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.10b") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1516,6 +1642,7 @@ NULL
 #'
 #' @name ex07.19
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.19")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.19") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1528,6 +1655,7 @@ NULL
 #'
 #' @name ex07.22
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.22")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.22") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1540,6 +1668,7 @@ NULL
 #'
 #' @name ex07.23
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.23")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.23") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1552,6 +1681,7 @@ NULL
 #'
 #' @name ex07.24
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.24")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.24") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1564,6 +1694,7 @@ NULL
 #'
 #' @name ex07.25
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.25")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.25") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1576,6 +1707,7 @@ NULL
 #'
 #' @name ex07.32
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.32")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.32") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1588,6 +1720,7 @@ NULL
 #'
 #' @name ex07.34
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.34")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.34") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1600,6 +1733,7 @@ NULL
 #'
 #' @name ex07.40
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.40")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.40") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1612,6 +1746,7 @@ NULL
 #'
 #' @name ex07.41
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.41")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.41") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1624,6 +1759,7 @@ NULL
 #'
 #' @name ex07.43
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.43")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.43") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1636,6 +1772,7 @@ NULL
 #'
 #' @name ex07.45
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1648,6 +1785,7 @@ NULL
 #'
 #' @name ex07.46
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.46")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.46") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1660,6 +1798,7 @@ NULL
 #'
 #' @name ex07.47
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.47")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.47") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1672,6 +1811,7 @@ NULL
 #'
 #' @name ex07.48
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.48")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.48") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1684,6 +1824,7 @@ NULL
 #'
 #' @name ex07.50
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ex07.50")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex07.50") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1696,6 +1837,7 @@ NULL
 #'
 #' @name ta07.01
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ta07.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta07.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1708,6 +1850,7 @@ NULL
 #'
 #' @name ta07.02
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ta07.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta07.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1720,6 +1863,7 @@ NULL
 #'
 #' @name ta07.03
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ta07.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta07.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1732,6 +1876,7 @@ NULL
 #'
 #' @name ta07.04
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ta07.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta07.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1744,6 +1889,7 @@ NULL
 #'
 #' @name ta07.xx
 #' @docType data
+#' @family datasets from Chapter 7 of \emph{BPS} 5th ed.
 #' @usage data("ta07.xx")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta07.xx") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1756,6 +1902,7 @@ NULL
 #'
 #' @name fig11.4a
 #' @docType data
+#' @family datasets from Chapter 11 of \emph{BPS} 5th ed.
 #' @usage data("fig11.4a")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("fig11.4a") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1768,6 +1915,7 @@ NULL
 #'
 #' @name fig11.4b
 #' @docType data
+#' @family datasets from Chapter 11 of \emph{BPS} 5th ed.
 #' @usage data("fig11.4b")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("fig11.4b") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1780,6 +1928,7 @@ NULL
 #'
 #' @name eg14.03
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("eg14.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg14.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1792,6 +1941,7 @@ NULL
 #'
 #' @name eg14.05
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("eg14.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg14.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1804,6 +1954,7 @@ NULL
 #'
 #' @name ex14.04
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1816,6 +1967,7 @@ NULL
 #'
 #' @name ex14.05
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1828,6 +1980,7 @@ NULL
 #'
 #' @name ex14.19
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.19")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.19") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1840,6 +1993,7 @@ NULL
 #'
 #' @name ex14.20
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.20")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.20") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1852,6 +2006,7 @@ NULL
 #'
 #' @name ex14.50
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.50")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.50") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1864,6 +2019,7 @@ NULL
 #'
 #' @name ex14.51
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.51")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.51") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1876,6 +2032,7 @@ NULL
 #'
 #' @name ex14.52
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.52")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.52") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1888,6 +2045,7 @@ NULL
 #'
 #' @name ex14.53
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.53")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.53") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1900,6 +2058,7 @@ NULL
 #'
 #' @name ex14.54
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.54")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.54") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1912,6 +2071,7 @@ NULL
 #'
 #' @name ex14.55
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.55")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.55") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1924,6 +2084,7 @@ NULL
 #'
 #' @name ex14.56
 #' @docType data
+#' @family datasets from Chapter 14 of \emph{BPS} 5th ed.
 #' @usage data("ex14.56")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex14.56") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1936,6 +2097,7 @@ NULL
 #'
 #' @name ex15.36
 #' @docType data
+#' @family datasets from Chapter 15 of \emph{BPS} 5th ed.
 #' @usage data("ex15.36")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex15.36") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1948,6 +2110,7 @@ NULL
 #'
 #' @name ex15.41
 #' @docType data
+#' @family datasets from Chapter 15 of \emph{BPS} 5th ed.
 #' @usage data("ex15.41")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex15.41") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1960,6 +2123,7 @@ NULL
 #'
 #' @name ex16.45
 #' @docType data
+#' @family datasets from Chapter 16 of \emph{BPS} 5th ed.
 #' @usage data("ex16.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex16.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1972,6 +2136,7 @@ NULL
 #'
 #' @name eg17.02
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("eg17.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg17.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1984,6 +2149,7 @@ NULL
 #'
 #' @name eg17.03
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("eg17.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg17.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -1996,6 +2162,7 @@ NULL
 #'
 #' @name ex17.02
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2008,6 +2175,7 @@ NULL
 #'
 #' @name ex17.06
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2020,6 +2188,7 @@ NULL
 #'
 #' @name ex17.07
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2032,6 +2201,7 @@ NULL
 #'
 #' @name ex17.10
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2044,6 +2214,7 @@ NULL
 #'
 #' @name ex17.27
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.27")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.27") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2056,6 +2227,7 @@ NULL
 #'
 #' @name ex17.30
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.30")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.30") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2068,6 +2240,7 @@ NULL
 #'
 #' @name ex17.31
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.31")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.31") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2080,6 +2253,7 @@ NULL
 #'
 #' @name ex17.32
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.32")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.32") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2092,6 +2266,7 @@ NULL
 #'
 #' @name ex17.33
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.33")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.33") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2104,6 +2279,7 @@ NULL
 #'
 #' @name ex17.34
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.34")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.34") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2116,6 +2292,7 @@ NULL
 #'
 #' @name ex17.35
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2128,6 +2305,7 @@ NULL
 #'
 #' @name ex17.36
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.36")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.36") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2140,6 +2318,7 @@ NULL
 #'
 #' @name ex17.37
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.37")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.37") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2152,6 +2331,7 @@ NULL
 #'
 #' @name ex17.38
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.38")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.38") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2164,6 +2344,7 @@ NULL
 #'
 #' @name ex17.39
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.39")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.39") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2176,6 +2357,7 @@ NULL
 #'
 #' @name ex17.40
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.40")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.40") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2188,6 +2370,7 @@ NULL
 #'
 #' @name ex17.41
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.41")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.41") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2200,6 +2383,7 @@ NULL
 #'
 #' @name ex17.42
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ex17.42")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex17.42") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2212,6 +2396,7 @@ NULL
 #'
 #' @name ta17.01
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ta17.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta17.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2224,6 +2409,7 @@ NULL
 #'
 #' @name ta17.02
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ta17.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta17.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2236,6 +2422,7 @@ NULL
 #'
 #' @name ta17.03
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ta17.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta17.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2248,6 +2435,7 @@ NULL
 #'
 #' @name ta17.04
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ta17.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta17.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2260,6 +2448,7 @@ NULL
 #'
 #' @name ta17.05
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ta17.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta17.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2272,6 +2461,7 @@ NULL
 #'
 #' @name ta17.06
 #' @docType data
+#' @family datasets from Chapter 17 of \emph{BPS} 5th ed.
 #' @usage data("ta17.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta17.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2284,6 +2474,7 @@ NULL
 #'
 #' @name ex18.05
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2296,6 +2487,7 @@ NULL
 #'
 #' @name ex18.08
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2308,6 +2500,7 @@ NULL
 #'
 #' @name ex18.10
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2320,6 +2513,7 @@ NULL
 #'
 #' @name ex18.11
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.11")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.11") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2332,6 +2526,7 @@ NULL
 #'
 #' @name ex18.12
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.12")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.12") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2344,6 +2539,7 @@ NULL
 #'
 #' @name ex18.35
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2356,6 +2552,7 @@ NULL
 #'
 #' @name ex18.36
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.36")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.36") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2368,6 +2565,7 @@ NULL
 #'
 #' @name ex18.37
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.37")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.37") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2380,6 +2578,7 @@ NULL
 #'
 #' @name ex18.38
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.38")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.38") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2392,6 +2591,7 @@ NULL
 #'
 #' @name ex18.39
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.39")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.39") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2404,6 +2604,7 @@ NULL
 #'
 #' @name ex18.40
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.40")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.40") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2416,6 +2617,7 @@ NULL
 #'
 #' @name ex18.41
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.41")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.41") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2428,6 +2630,7 @@ NULL
 #'
 #' @name ex18.43
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.43")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.43") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2440,6 +2643,7 @@ NULL
 #'
 #' @name ex18.45
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2452,6 +2656,7 @@ NULL
 #'
 #' @name ex18.46
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.46")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.46") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2464,6 +2669,7 @@ NULL
 #'
 #' @name ex18.49
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ex18.49")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex18.49") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2476,6 +2682,7 @@ NULL
 #'
 #' @name ta18.01
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ta18.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta18.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2488,6 +2695,7 @@ NULL
 #'
 #' @name ta18.02
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ta18.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta18.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2500,6 +2708,7 @@ NULL
 #'
 #' @name ta18.03
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ta18.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta18.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2512,6 +2721,7 @@ NULL
 #'
 #' @name ta18.04
 #' @docType data
+#' @family datasets from Chapter 18 of \emph{BPS} 5th ed.
 #' @usage data("ta18.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta18.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2524,6 +2734,7 @@ NULL
 #'
 #' @name ex21.41
 #' @docType data
+#' @family datasets from Chapter 21 of \emph{BPS} 5th ed.
 #' @usage data("ex21.41")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex21.41") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2536,6 +2747,7 @@ NULL
 #'
 #' @name ex21.42
 #' @docType data
+#' @family datasets from Chapter 21 of \emph{BPS} 5th ed.
 #' @usage data("ex21.42")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex21.42") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2548,6 +2760,7 @@ NULL
 #'
 #' @name ex21.45
 #' @docType data
+#' @family datasets from Chapter 21 of \emph{BPS} 5th ed.
 #' @usage data("ex21.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex21.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2560,6 +2773,7 @@ NULL
 #'
 #' @name ex21.48
 #' @docType data
+#' @family datasets from Chapter 21 of \emph{BPS} 5th ed.
 #' @usage data("ex21.48")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex21.48") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2572,6 +2786,7 @@ NULL
 #'
 #' @name ex21.50
 #' @docType data
+#' @family datasets from Chapter 21 of \emph{BPS} 5th ed.
 #' @usage data("ex21.50")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex21.50") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2584,6 +2799,7 @@ NULL
 #'
 #' @name ta21.01
 #' @docType data
+#' @family datasets from Chapter 21 of \emph{BPS} 5th ed.
 #' @usage data("ta21.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta21.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2596,6 +2812,7 @@ NULL
 #'
 #' @name eg22.01
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("eg22.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg22.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2608,6 +2825,7 @@ NULL
 #'
 #' @name eg22.05
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("eg22.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg22.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2620,6 +2838,7 @@ NULL
 #'
 #' @name eg22.07
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("eg22.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg22.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2632,6 +2851,7 @@ NULL
 #'
 #' @name ex22.01
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2644,6 +2864,7 @@ NULL
 #'
 #' @name ex22.02
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2656,6 +2877,7 @@ NULL
 #'
 #' @name ex22.03
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2668,6 +2890,7 @@ NULL
 #'
 #' @name ex22.04
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2680,6 +2903,7 @@ NULL
 #'
 #' @name ex22.05
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2692,6 +2916,7 @@ NULL
 #'
 #' @name ex22.06
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2704,6 +2929,7 @@ NULL
 #'
 #' @name ex22.07
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2716,6 +2942,7 @@ NULL
 #'
 #' @name ex22.08
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2728,6 +2955,7 @@ NULL
 #'
 #' @name ex22.09
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2740,6 +2968,7 @@ NULL
 #'
 #' @name ex22.10
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2752,6 +2981,7 @@ NULL
 #'
 #' @name ex22.14
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.14")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.14") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2764,6 +2994,7 @@ NULL
 #'
 #' @name ex22.18
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.18")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.18") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2776,6 +3007,7 @@ NULL
 #'
 #' @name ex22.19
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.19")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.19") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2788,6 +3020,7 @@ NULL
 #'
 #' @name ex22.28
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.28")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.28") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2800,6 +3033,7 @@ NULL
 #'
 #' @name ex22.29
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.29")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.29") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2812,6 +3046,7 @@ NULL
 #'
 #' @name ex22.34
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.34")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.34") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2824,6 +3059,7 @@ NULL
 #'
 #' @name ex22.35
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2836,6 +3072,7 @@ NULL
 #'
 #' @name ex22.36
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.36")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.36") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2848,6 +3085,7 @@ NULL
 #'
 #' @name ex22.40
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.40")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.40") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2860,6 +3098,7 @@ NULL
 #'
 #' @name ex22.41
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.41")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.41") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2872,6 +3111,7 @@ NULL
 #'
 #' @name ex22.42
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.42")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.42") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2884,6 +3124,7 @@ NULL
 #'
 #' @name ex22.43
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.43")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.43") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2896,6 +3137,7 @@ NULL
 #'
 #' @name ex22.44
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.44")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.44") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2908,6 +3150,7 @@ NULL
 #'
 #' @name ex22.45
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2920,6 +3163,7 @@ NULL
 #'
 #' @name ex22.47
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.47")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.47") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2932,6 +3176,7 @@ NULL
 #'
 #' @name ex22.48
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ex22.48")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex22.48") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2944,6 +3189,7 @@ NULL
 #'
 #' @name ta22.01
 #' @docType data
+#' @family datasets from Chapter 22 of \emph{BPS} 5th ed.
 #' @usage data("ta22.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta22.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2956,6 +3202,7 @@ NULL
 #'
 #' @name eg23.03
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("eg23.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg23.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2968,6 +3215,7 @@ NULL
 #'
 #' @name eg23.07
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("eg23.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg23.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2980,6 +3228,7 @@ NULL
 #'
 #' @name eg23.09
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("eg23.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg23.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -2992,6 +3241,7 @@ NULL
 #'
 #' @name ex23.01
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3004,6 +3254,7 @@ NULL
 #'
 #' @name ex23.02
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3016,6 +3267,7 @@ NULL
 #'
 #' @name ex23.06
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3028,6 +3280,7 @@ NULL
 #'
 #' @name ex23.07
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3040,6 +3293,7 @@ NULL
 #'
 #' @name ex23.08
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3052,6 +3306,7 @@ NULL
 #'
 #' @name ex23.09
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3064,6 +3319,7 @@ NULL
 #'
 #' @name ex23.10
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3076,6 +3332,7 @@ NULL
 #'
 #' @name ex23.14
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.14")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.14") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3088,6 +3345,7 @@ NULL
 #'
 #' @name ex23.15
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.15")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.15") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3100,6 +3358,7 @@ NULL
 #'
 #' @name ex23.28
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.28")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.28") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3112,6 +3371,7 @@ NULL
 #'
 #' @name ex23.29
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.29")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.29") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3124,6 +3384,7 @@ NULL
 #'
 #' @name ex23.32
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.32")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.32") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3136,6 +3397,7 @@ NULL
 #'
 #' @name ex23.33
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.33")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.33") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3148,6 +3410,7 @@ NULL
 #'
 #' @name ex23.34
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.34")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.34") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3160,6 +3423,7 @@ NULL
 #'
 #' @name ex23.36
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.36")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.36") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3172,6 +3436,7 @@ NULL
 #'
 #' @name ex23.37
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.37")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.37") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3184,6 +3449,7 @@ NULL
 #'
 #' @name ex23.38
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.38")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.38") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3196,6 +3462,7 @@ NULL
 #'
 #' @name ex23.39
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.39")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.39") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3208,6 +3475,7 @@ NULL
 #'
 #' @name ex23.41
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.41")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.41") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3220,6 +3488,7 @@ NULL
 #'
 #' @name ex23.42
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.42")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.42") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3232,6 +3501,7 @@ NULL
 #'
 #' @name ex23.43
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.43")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.43") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3244,6 +3514,7 @@ NULL
 #'
 #' @name ex23.44
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.44")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.44") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3256,6 +3527,7 @@ NULL
 #'
 #' @name ex23.45
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3268,6 +3540,7 @@ NULL
 #'
 #' @name ex23.46
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ex23.46")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex23.46") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3280,6 +3553,7 @@ NULL
 #'
 #' @name ta23.01
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ta23.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta23.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3292,6 +3566,7 @@ NULL
 #'
 #' @name ta23.02
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ta23.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta23.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3304,6 +3579,7 @@ NULL
 #'
 #' @name ta23.03
 #' @docType data
+#' @family datasets from Chapter 23 of \emph{BPS} 5th ed.
 #' @usage data("ta23.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta23.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3316,6 +3592,7 @@ NULL
 #'
 #' @name eg24.03
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("eg24.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg24.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3328,6 +3605,7 @@ NULL
 #'
 #' @name ex24.09
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ex24.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex24.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3340,6 +3618,7 @@ NULL
 #'
 #' @name ex24.18
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ex24.18")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex24.18") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3352,6 +3631,7 @@ NULL
 #'
 #' @name ex24.30
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ex24.30")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex24.30") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3364,6 +3644,7 @@ NULL
 #'
 #' @name ex24.32
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ex24.32")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex24.32") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3376,6 +3657,7 @@ NULL
 #'
 #' @name ex24.34
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ex24.34")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex24.34") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3388,6 +3670,7 @@ NULL
 #'
 #' @name ex24.35
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ex24.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex24.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3400,6 +3683,7 @@ NULL
 #'
 #' @name ex24.36
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ex24.36")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex24.36") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3412,6 +3696,7 @@ NULL
 #'
 #' @name ex24.38
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ex24.38")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex24.38") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3424,6 +3709,7 @@ NULL
 #'
 #' @name ta24.01
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ta24.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta24.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3436,6 +3722,7 @@ NULL
 #'
 #' @name ta24.02
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ta24.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta24.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3448,6 +3735,7 @@ NULL
 #'
 #' @name ta24.03
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ta24.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta24.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3460,6 +3748,7 @@ NULL
 #'
 #' @name ta24.04
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ta24.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta24.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3472,6 +3761,7 @@ NULL
 #'
 #' @name ta24.05
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ta24.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta24.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3484,6 +3774,7 @@ NULL
 #'
 #' @name ta24.06
 #' @docType data
+#' @family datasets from Chapter 24 of \emph{BPS} 5th ed.
 #' @usage data("ta24.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta24.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3496,6 +3787,7 @@ NULL
 #'
 #' @name eg25.01
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("eg25.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg25.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3508,6 +3800,7 @@ NULL
 #'
 #' @name eg25.05
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("eg25.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg25.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3520,6 +3813,7 @@ NULL
 #'
 #' @name eg25.06
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("eg25.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg25.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3532,6 +3826,7 @@ NULL
 #'
 #' @name eg25.09
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("eg25.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg25.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3544,6 +3839,7 @@ NULL
 #'
 #' @name eg25.10
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("eg25.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg25.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3556,6 +3852,7 @@ NULL
 #'
 #' @name ex25.01
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3568,6 +3865,7 @@ NULL
 #'
 #' @name ex25.02
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3580,6 +3878,7 @@ NULL
 #'
 #' @name ex25.05
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3592,6 +3891,7 @@ NULL
 #'
 #' @name ex25.06
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3604,6 +3904,7 @@ NULL
 #'
 #' @name ex25.07
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3616,6 +3917,7 @@ NULL
 #'
 #' @name ex25.08
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3628,6 +3930,7 @@ NULL
 #'
 #' @name ex25.11
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.11")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.11") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3640,6 +3943,7 @@ NULL
 #'
 #' @name ex25.12
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.12")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.12") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3652,6 +3956,7 @@ NULL
 #'
 #' @name ex25.13
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.13")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.13") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3664,6 +3969,7 @@ NULL
 #'
 #' @name ex25.14
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.14")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.14") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3676,6 +3982,7 @@ NULL
 #'
 #' @name ex25.15
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.15")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.15") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3688,6 +3995,7 @@ NULL
 #'
 #' @name ex25.16
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.16")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.16") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3700,6 +4008,7 @@ NULL
 #'
 #' @name ex25.18
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.18")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.18") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3712,6 +4021,7 @@ NULL
 #'
 #' @name ex25.19
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.19")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.19") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3724,6 +4034,7 @@ NULL
 #'
 #' @name ex25.21
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.21")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.21") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3736,6 +4047,7 @@ NULL
 #'
 #' @name ex25.22
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.22")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.22") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3748,6 +4060,7 @@ NULL
 #'
 #' @name ex25.23
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.23")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.23") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3760,6 +4073,7 @@ NULL
 #'
 #' @name ex25.24
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.24")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.24") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3772,6 +4086,7 @@ NULL
 #'
 #' @name ex25.25
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.25")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.25") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3784,6 +4099,7 @@ NULL
 #'
 #' @name ex25.26
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.26")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.26") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3796,6 +4112,7 @@ NULL
 #'
 #' @name ex25.27
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.27")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.27") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3808,6 +4125,7 @@ NULL
 #'
 #' @name ex25.28
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.28")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.28") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3820,6 +4138,7 @@ NULL
 #'
 #' @name ex25.29
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.29")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.29") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3832,6 +4151,7 @@ NULL
 #'
 #' @name ex25.30
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.30")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.30") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3844,6 +4164,7 @@ NULL
 #'
 #' @name ex25.42
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.42")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.42") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3856,6 +4177,7 @@ NULL
 #'
 #' @name ex25.43
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.43")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.43") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3868,6 +4190,7 @@ NULL
 #'
 #' @name ex25.44
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.44")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.44") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3880,6 +4203,7 @@ NULL
 #'
 #' @name ex25.45
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3892,6 +4216,7 @@ NULL
 #'
 #' @name ex25.48
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.48")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.48") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3904,6 +4229,7 @@ NULL
 #'
 #' @name ex25.49
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ex25.49")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex25.49") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3916,6 +4242,7 @@ NULL
 #'
 #' @name ta25.01
 #' @docType data
+#' @family datasets from Chapter 25 of \emph{BPS} 5th ed.
 #' @usage data("ta25.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta25.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3928,6 +4255,7 @@ NULL
 #'
 #' @name ex26.04
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ex26.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex26.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3940,6 +4268,7 @@ NULL
 #'
 #' @name ex26.15
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ex26.15")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex26.15") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3952,6 +4281,7 @@ NULL
 #'
 #' @name ex26.29
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ex26.29")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex26.29") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3964,6 +4294,7 @@ NULL
 #'
 #' @name ex26.35
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ex26.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex26.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3976,6 +4307,7 @@ NULL
 #'
 #' @name ex26.39
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ex26.39")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex26.39") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -3988,6 +4320,7 @@ NULL
 #'
 #' @name ex26.43
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ex26.43")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex26.43") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4000,6 +4333,7 @@ NULL
 #'
 #' @name ta26.01
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4012,6 +4346,7 @@ NULL
 #'
 #' @name ta26.02
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4024,6 +4359,7 @@ NULL
 #'
 #' @name ta26.04
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4036,6 +4372,7 @@ NULL
 #'
 #' @name ta26.05
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4048,6 +4385,7 @@ NULL
 #'
 #' @name ta26.06
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4060,6 +4398,7 @@ NULL
 #'
 #' @name ta26.07
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4072,6 +4411,7 @@ NULL
 #'
 #' @name ta26.08
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4084,6 +4424,7 @@ NULL
 #'
 #' @name ta26.09
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4096,6 +4437,7 @@ NULL
 #'
 #' @name ta26.10
 #' @docType data
+#' @family datasets from Chapter 26 of \emph{BPS} 5th ed.
 #' @usage data("ta26.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta26.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4108,6 +4450,7 @@ NULL
 #'
 #' @name eg27.11
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("eg27.11")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg27.11") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4120,6 +4463,7 @@ NULL
 #'
 #' @name ex27.07
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ex27.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex27.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4132,6 +4476,7 @@ NULL
 #'
 #' @name ex27.15
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ex27.15")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex27.15") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4144,6 +4489,7 @@ NULL
 #'
 #' @name ex27.45
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ex27.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex27.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4156,6 +4502,7 @@ NULL
 #'
 #' @name ex27.48
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ex27.48")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex27.48") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4168,6 +4515,7 @@ NULL
 #'
 #' @name ex27.51
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ex27.51")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex27.51") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4180,6 +4528,7 @@ NULL
 #'
 #' @name ta27.01
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4192,6 +4541,7 @@ NULL
 #'
 #' @name ta27.02
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4204,6 +4554,7 @@ NULL
 #'
 #' @name ta27.03
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4216,6 +4567,7 @@ NULL
 #'
 #' @name ta27.04
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4228,6 +4580,7 @@ NULL
 #'
 #' @name ta27.05
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4240,6 +4593,7 @@ NULL
 #'
 #' @name ta27.06
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4252,6 +4606,7 @@ NULL
 #'
 #' @name ta27.07
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.07")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.07") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4264,6 +4619,7 @@ NULL
 #'
 #' @name ta27.08
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.08")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.08") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4276,6 +4632,7 @@ NULL
 #'
 #' @name ta27.09
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.09")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.09") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4288,6 +4645,7 @@ NULL
 #'
 #' @name ta27.10
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.10")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.10") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4300,6 +4658,7 @@ NULL
 #'
 #' @name ta27.11
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.11")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.11") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4312,6 +4671,7 @@ NULL
 #'
 #' @name ta27.12
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.12")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.12") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4324,6 +4684,7 @@ NULL
 #'
 #' @name ta27.13
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.13")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.13") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4336,6 +4697,7 @@ NULL
 #'
 #' @name ta27.14
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.14")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.14") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4348,6 +4710,7 @@ NULL
 #'
 #' @name ta27.15
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.15")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.15") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4360,6 +4723,7 @@ NULL
 #'
 #' @name ta27.16
 #' @docType data
+#' @family datasets from Chapter 27 of \emph{BPS} 5th ed.
 #' @usage data("ta27.16")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta27.16") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4372,6 +4736,7 @@ NULL
 #'
 #' @name eg28.14
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("eg28.14")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("eg28.14") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4384,6 +4749,7 @@ NULL
 #'
 #' @name ex28.01
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4396,6 +4762,7 @@ NULL
 #'
 #' @name ex28.02
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4408,6 +4775,7 @@ NULL
 #'
 #' @name ex28.04
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4420,6 +4788,7 @@ NULL
 #'
 #' @name ex28.05
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4432,6 +4801,7 @@ NULL
 #'
 #' @name ex28.06
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4444,6 +4814,7 @@ NULL
 #'
 #' @name ex28.12
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.12")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.12") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4456,6 +4827,7 @@ NULL
 #'
 #' @name ex28.13
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.13")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.13") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4468,6 +4840,7 @@ NULL
 #'
 #' @name ex28.14
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.14")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.14") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4480,6 +4853,7 @@ NULL
 #'
 #' @name ex28.15
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.15")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.15") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4492,6 +4866,7 @@ NULL
 #'
 #' @name ex28.16
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.16")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.16") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4504,6 +4879,7 @@ NULL
 #'
 #' @name ex28.27
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.27")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.27") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4516,6 +4892,7 @@ NULL
 #'
 #' @name ex28.28
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.28")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.28") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4528,6 +4905,7 @@ NULL
 #'
 #' @name ex28.29
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.29")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.29") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4540,6 +4918,7 @@ NULL
 #'
 #' @name ex28.30
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.30")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.30") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4552,6 +4931,7 @@ NULL
 #'
 #' @name ex28.31
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.31")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.31") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4564,6 +4944,7 @@ NULL
 #'
 #' @name ex28.32
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.32")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.32") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4576,6 +4957,7 @@ NULL
 #'
 #' @name ex28.33
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.33")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.33") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4588,6 +4970,7 @@ NULL
 #'
 #' @name ex28.35
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.35")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.35") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4600,6 +4983,7 @@ NULL
 #'
 #' @name ex28.36
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.36")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.36") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4612,6 +4996,7 @@ NULL
 #'
 #' @name ex28.39
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.39")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.39") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4624,6 +5009,7 @@ NULL
 #'
 #' @name ex28.42
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.42")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.42") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4636,6 +5022,7 @@ NULL
 #'
 #' @name ex28.45
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ex28.45")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ex28.45") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4648,6 +5035,7 @@ NULL
 #'
 #' @name ta28.01
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ta28.01")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta28.01") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4660,6 +5048,7 @@ NULL
 #'
 #' @name ta28.02
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ta28.02")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta28.02") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4672,6 +5061,7 @@ NULL
 #'
 #' @name ta28.03
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ta28.03")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta28.03") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4684,6 +5074,7 @@ NULL
 #'
 #' @name ta28.04
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ta28.04")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta28.04") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4696,6 +5087,7 @@ NULL
 #'
 #' @name ta28.05
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ta28.05")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta28.05") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
@@ -4708,6 +5100,7 @@ NULL
 #'
 #' @name ta28.06
 #' @docType data
+#' @family datasets from Chapter 28 of \emph{BPS} 5th ed.
 #' @usage data("ta28.06")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta28.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.

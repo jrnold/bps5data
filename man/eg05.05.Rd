@@ -17,4 +17,20 @@ Data from Example 05.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 5 of \emph{BPS} 5th ed.: \code{\link{eg05.01}};
+  \code{\link{ex05.03}}; \code{\link{ex05.04}};
+  \code{\link{ex05.06}}; \code{\link{ex05.08}};
+  \code{\link{ex05.10}}; \code{\link{ex05.11}};
+  \code{\link{ex05.12}}; \code{\link{ex05.26}};
+  \code{\link{ex05.29}}; \code{\link{ex05.30}};
+  \code{\link{ex05.34}}; \code{\link{ex05.35}};
+  \code{\link{ex05.36}}; \code{\link{ex05.37}};
+  \code{\link{ex05.40}}; \code{\link{ex05.51}};
+  \code{\link{ex05.53}}; \code{\link{ex05.54}};
+  \code{\link{ex05.55}}; \code{\link{ex05.56}};
+  \code{\link{ta05.01a}}; \code{\link{ta05.01b}};
+  \code{\link{ta05.01c}}; \code{\link{ta05.01d}};
+  \code{\link{ta05.02}}; \code{\link{ta05.03}}
+}
 

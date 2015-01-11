@@ -10,6 +10,7 @@
 #'
 #' @name bliss
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("bliss")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("bliss", variables = FALSE)}
 #' \describe{
@@ -33,6 +34,7 @@ NULL
 #'
 #' @name call
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("call")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("call", variables = FALSE)}
 #' \describe{
@@ -50,6 +52,7 @@ NULL
 #'
 #' @name class
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("class")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("class", variables = FALSE)}
 #' \describe{
@@ -73,6 +76,7 @@ NULL
 #'
 #' @name concept
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("concept")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("concept", variables = FALSE)}
 #' \describe{
@@ -101,6 +105,7 @@ NULL
 #'
 #' @name education
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("education")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("education", variables = FALSE)}
 #' \describe{
@@ -121,6 +126,7 @@ NULL
 #'
 #' @name floridavote
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("floridavote")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("floridavote", variables = FALSE)}
 #' \describe{
@@ -145,6 +151,7 @@ NULL
 #'
 #' @name foodsafety
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("foodsafety")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("foodsafety", variables = FALSE)}
 #' \describe{
@@ -167,6 +174,7 @@ NULL
 #'
 #' @name income
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("income")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("income", variables = FALSE)}
 #' \describe{
@@ -188,6 +196,7 @@ NULL
 #'
 #' @name literacy
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("literacy")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("literacy", variables = FALSE)}
 #' \describe{
@@ -209,6 +218,7 @@ NULL
 #'
 #' @name newt
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("newt")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("newt", variables = FALSE)}
 #' \describe{
@@ -231,6 +241,7 @@ NULL
 #'
 #' @name reading
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("reading")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("reading", variables = FALSE)}
 #' \describe{
@@ -254,6 +265,7 @@ NULL
 #'
 #' @name verizon
 #' @docType data
+#' @family large datasets from \emph{BPS} 5th ed.
 #' @usage data("verizon")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("verizon", variables = FALSE)}
 #' \describe{

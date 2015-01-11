@@ -17,4 +17,21 @@ Data from Exercise 28.02 of \emph{The Basic Practice of Statistics}, 5th edition
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 28 of \emph{BPS} 5th ed.: \code{\link{eg28.14}};
+  \code{\link{ex28.01}}; \code{\link{ex28.04}};
+  \code{\link{ex28.05}}; \code{\link{ex28.06}};
+  \code{\link{ex28.12}}; \code{\link{ex28.13}};
+  \code{\link{ex28.14}}; \code{\link{ex28.15}};
+  \code{\link{ex28.16}}; \code{\link{ex28.27}};
+  \code{\link{ex28.28}}; \code{\link{ex28.29}};
+  \code{\link{ex28.30}}; \code{\link{ex28.31}};
+  \code{\link{ex28.32}}; \code{\link{ex28.33}};
+  \code{\link{ex28.35}}; \code{\link{ex28.36}};
+  \code{\link{ex28.39}}; \code{\link{ex28.42}};
+  \code{\link{ex28.45}}; \code{\link{ta28.01}};
+  \code{\link{ta28.02}}; \code{\link{ta28.03}};
+  \code{\link{ta28.04}}; \code{\link{ta28.05}};
+  \code{\link{ta28.06}}
+}
 

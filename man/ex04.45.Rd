@@ -17,4 +17,18 @@ Data from Exercise 04.45 of \emph{The Basic Practice of Statistics}, 5th edition
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 4 of \emph{BPS} 5th ed.: \code{\link{eg04.03}};
+  \code{\link{ex04.04}}; \code{\link{ex04.05}};
+  \code{\link{ex04.08}}; \code{\link{ex04.09}};
+  \code{\link{ex04.10}}; \code{\link{ex04.12}};
+  \code{\link{ex04.13}}; \code{\link{ex04.23}};
+  \code{\link{ex04.26}}; \code{\link{ex04.27}};
+  \code{\link{ex04.28}}; \code{\link{ex04.29}};
+  \code{\link{ex04.30}}; \code{\link{ex04.32}};
+  \code{\link{ex04.33}}; \code{\link{ex04.35}};
+  \code{\link{ex04.42}}; \code{\link{ex04.43}};
+  \code{\link{ex04.44}}; \code{\link{ta04.01}};
+  \code{\link{ta04.02}}; \code{\link{ta04.03}}
+}
 

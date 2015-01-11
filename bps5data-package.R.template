@@ -1,0 +1,19 @@
+#' bps5data package
+#'
+#' Package containing datasets from the \emph{Basic Practice of Statistics}, 5th edition.
+#'
+
+#'
+#' \itemize{
+{{#datasets}}
+#' \item {{{name}}}
+#'  \itemize{
+{{#value}}
+#'   \item {{{.}}}
+{{/value}}
+#'   }
+{{/datasets}}
+#' }
+#' @name bps5data-package
+#' @docType package
+NULL

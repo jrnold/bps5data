@@ -17,4 +17,11 @@ Data from Exercise 06.27 of \emph{The Basic Practice of Statistics}, 5th edition
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 6 of \emph{BPS} 5th ed.: \code{\link{ex06.01}};
+  \code{\link{ex06.02}}; \code{\link{ex06.18}};
+  \code{\link{ex06.19}}; \code{\link{ex06.28}};
+  \code{\link{ex06.30}}; \code{\link{ex06.31}};
+  \code{\link{ta06.01}}; \code{\link{ta06.02}}
+}
 

@@ -17,4 +17,17 @@ Data from Exercise 02.13 of \emph{The Basic Practice of Statistics}, 5th edition
 \references{
 Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 }
+\seealso{
+Other datasets from Chapter 2 of \emph{BPS} 5th ed.: \code{\link{eg02.01}};
+  \code{\link{eg02.03}}; \code{\link{eg02.07}};
+  \code{\link{ex02.01}}; \code{\link{ex02.06}};
+  \code{\link{ex02.11}}; \code{\link{ex02.14}};
+  \code{\link{ex02.15}}; \code{\link{ex02.28}};
+  \code{\link{ex02.32}}; \code{\link{ex02.35}};
+  \code{\link{ex02.44}}; \code{\link{ex02.48}};
+  \code{\link{ex02.49}}; \code{\link{ex02.52}};
+  \code{\link{ta02.01}}; \code{\link{ta02.02}};
+  \code{\link{ta02.03}}; \code{\link{ta02.04}};
+  \code{\link{ta02.05}}
+}
 
