@@ -1,14 +1,14 @@
 {{#datasets}}
-#' {{{name}}} data
+#' Data from {{{type}}} {{{number}}}
 #'
-#' Dataset {{{name}}} from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from {{{type}}} {{{number}}} of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name {{{name}}}
 #' @docType data
 #' @usage data("{{{name}}}")
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("{{{name}}}") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ {{{value}}} }
+#' @source \url{ {{{url}}} }
 NULL
 
 {{/datasets}}

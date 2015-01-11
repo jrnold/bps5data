@@ -1,6 +1,6 @@
-#' eg01.02 data
+#' Data from Example 01.02
 #'
-#' Dataset eg01.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 01.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg01.02
 #' @docType data
@@ -10,9 +10,9 @@
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg01.03 data
+#' Data from Example 01.03
 #'
-#' Dataset eg01.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 01.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg01.03
 #' @docType data
@@ -22,9 +22,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg01.04 data
+#' Data from Example 01.04
 #'
-#' Dataset eg01.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 01.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg01.04
 #' @docType data
@@ -34,9 +34,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg01.06 data
+#' Data from Example 01.06
 #'
-#' Dataset eg01.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 01.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg01.06
 #' @docType data
@@ -46,9 +46,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg01.07 data
+#' Data from Example 01.07
 #'
-#' Dataset eg01.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 01.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg01.07
 #' @docType data
@@ -58,9 +58,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg01.09 data
+#' Data from Example 01.09
 #'
-#' Dataset eg01.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 01.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg01.09
 #' @docType data
@@ -70,9 +70,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg01.10 data
+#' Data from Example 01.10
 #'
-#' Dataset eg01.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 01.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg01.10
 #' @docType data
@@ -82,9 +82,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.03 data
+#' Data from Exercise 01.03
 #'
-#' Dataset ex01.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.03
 #' @docType data
@@ -94,9 +94,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.04 data
+#' Data from Exercise 01.04
 #'
-#' Dataset ex01.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.04
 #' @docType data
@@ -106,9 +106,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.05 data
+#' Data from Exercise 01.05
 #'
-#' Dataset ex01.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.05
 #' @docType data
@@ -118,9 +118,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.09 data
+#' Data from Exercise 01.09
 #'
-#' Dataset ex01.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.09
 #' @docType data
@@ -130,9 +130,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.11 data
+#' Data from Exercise 01.11
 #'
-#' Dataset ex01.11 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.11 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.11
 #' @docType data
@@ -142,9 +142,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.12 data
+#' Data from Exercise 01.12
 #'
-#' Dataset ex01.12 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.12 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.12
 #' @docType data
@@ -154,9 +154,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.19 data
+#' Data from Exercise 01.19
 #'
-#' Dataset ex01.19 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.19 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.19
 #' @docType data
@@ -166,9 +166,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.25 data
+#' Data from Exercise 01.25
 #'
-#' Dataset ex01.25 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.25 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.25
 #' @docType data
@@ -178,9 +178,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.26 data
+#' Data from Exercise 01.26
 #'
-#' Dataset ex01.26 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.26 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.26
 #' @docType data
@@ -190,9 +190,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.29 data
+#' Data from Exercise 01.29
 #'
-#' Dataset ex01.29 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.29 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.29
 #' @docType data
@@ -202,9 +202,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.31 data
+#' Data from Exercise 01.31
 #'
-#' Dataset ex01.31 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.31 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.31
 #' @docType data
@@ -214,9 +214,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.32 data
+#' Data from Exercise 01.32
 #'
-#' Dataset ex01.32 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.32 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.32
 #' @docType data
@@ -226,9 +226,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.37 data
+#' Data from Exercise 01.37
 #'
-#' Dataset ex01.37 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.37 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.37
 #' @docType data
@@ -238,9 +238,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.38 data
+#' Data from Exercise 01.38
 #'
-#' Dataset ex01.38 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.38 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.38
 #' @docType data
@@ -250,9 +250,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.42 data
+#' Data from Exercise 01.42
 #'
-#' Dataset ex01.42 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.42 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.42
 #' @docType data
@@ -262,9 +262,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.44 data
+#' Data from Exercise 01.44
 #'
-#' Dataset ex01.44 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.44 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.44
 #' @docType data
@@ -274,9 +274,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex01.45 data
+#' Data from Exercise 01.45
 #'
-#' Dataset ex01.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 01.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex01.45
 #' @docType data
@@ -286,9 +286,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta01.01 data
+#' Data from Table 01.01
 #'
-#' Dataset ta01.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 01.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta01.01
 #' @docType data
@@ -298,9 +298,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta01.02 data
+#' Data from Table 01.02
 #'
-#' Dataset ta01.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 01.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta01.02
 #' @docType data
@@ -310,9 +310,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta01.03 data
+#' Data from Table 01.03
 #'
-#' Dataset ta01.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 01.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta01.03
 #' @docType data
@@ -322,9 +322,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta01.04 data
+#' Data from Table 01.04
 #'
-#' Dataset ta01.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 01.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta01.04
 #' @docType data
@@ -334,9 +334,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta01.05 data
+#' Data from Table 01.05
 #'
-#' Dataset ta01.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 01.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta01.05
 #' @docType data
@@ -346,9 +346,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta01.06 data
+#' Data from Table 01.06
 #'
-#' Dataset ta01.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 01.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta01.06
 #' @docType data
@@ -358,9 +358,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg02.01 data
+#' Data from Example 02.01
 #'
-#' Dataset eg02.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 02.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg02.01
 #' @docType data
@@ -370,9 +370,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg02.03 data
+#' Data from Example 02.03
 #'
-#' Dataset eg02.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 02.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg02.03
 #' @docType data
@@ -382,9 +382,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg02.07 data
+#' Data from Example 02.07
 #'
-#' Dataset eg02.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 02.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg02.07
 #' @docType data
@@ -394,9 +394,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.01 data
+#' Data from Exercise 02.01
 #'
-#' Dataset ex02.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.01
 #' @docType data
@@ -406,9 +406,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.06 data
+#' Data from Exercise 02.06
 #'
-#' Dataset ex02.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.06
 #' @docType data
@@ -418,9 +418,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.11 data
+#' Data from Exercise 02.11
 #'
-#' Dataset ex02.11 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.11 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.11
 #' @docType data
@@ -430,9 +430,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.13 data
+#' Data from Exercise 02.13
 #'
-#' Dataset ex02.13 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.13 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.13
 #' @docType data
@@ -442,9 +442,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.14 data
+#' Data from Exercise 02.14
 #'
-#' Dataset ex02.14 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.14 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.14
 #' @docType data
@@ -454,9 +454,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.15 data
+#' Data from Exercise 02.15
 #'
-#' Dataset ex02.15 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.15 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.15
 #' @docType data
@@ -466,9 +466,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.28 data
+#' Data from Exercise 02.28
 #'
-#' Dataset ex02.28 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.28 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.28
 #' @docType data
@@ -478,9 +478,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.32 data
+#' Data from Exercise 02.32
 #'
-#' Dataset ex02.32 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.32 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.32
 #' @docType data
@@ -490,9 +490,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.35 data
+#' Data from Exercise 02.35
 #'
-#' Dataset ex02.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.35
 #' @docType data
@@ -502,9 +502,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.44 data
+#' Data from Exercise 02.44
 #'
-#' Dataset ex02.44 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.44 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.44
 #' @docType data
@@ -514,9 +514,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.48 data
+#' Data from Exercise 02.48
 #'
-#' Dataset ex02.48 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.48 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.48
 #' @docType data
@@ -526,9 +526,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.49 data
+#' Data from Exercise 02.49
 #'
-#' Dataset ex02.49 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.49 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.49
 #' @docType data
@@ -538,9 +538,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex02.52 data
+#' Data from Exercise 02.52
 #'
-#' Dataset ex02.52 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 02.52 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex02.52
 #' @docType data
@@ -550,9 +550,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta02.01 data
+#' Data from Table 02.01
 #'
-#' Dataset ta02.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 02.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta02.01
 #' @docType data
@@ -562,9 +562,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta02.02 data
+#' Data from Table 02.02
 #'
-#' Dataset ta02.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 02.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta02.02
 #' @docType data
@@ -574,9 +574,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta02.03 data
+#' Data from Table 02.03
 #'
-#' Dataset ta02.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 02.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta02.03
 #' @docType data
@@ -586,9 +586,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta02.04 data
+#' Data from Table 02.04
 #'
-#' Dataset ta02.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 02.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta02.04
 #' @docType data
@@ -598,9 +598,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta02.05 data
+#' Data from Table 02.05
 #'
-#' Dataset ta02.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 02.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta02.05
 #' @docType data
@@ -610,9 +610,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex03.46 data
+#' Data from Exercise 03.46
 #'
-#' Dataset ex03.46 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 03.46 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex03.46
 #' @docType data
@@ -622,9 +622,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex03.49 data
+#' Data from Exercise 03.49
 #'
-#' Dataset ex03.49 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 03.49 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex03.49
 #' @docType data
@@ -634,9 +634,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex03.50 data
+#' Data from Exercise 03.50
 #'
-#' Dataset ex03.50 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 03.50 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex03.50
 #' @docType data
@@ -646,9 +646,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg04.03 data
+#' Data from Example 04.03
 #'
-#' Dataset eg04.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 04.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg04.03
 #' @docType data
@@ -658,9 +658,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.04 data
+#' Data from Exercise 04.04
 #'
-#' Dataset ex04.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.04
 #' @docType data
@@ -670,9 +670,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.05 data
+#' Data from Exercise 04.05
 #'
-#' Dataset ex04.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.05
 #' @docType data
@@ -682,9 +682,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.08 data
+#' Data from Exercise 04.08
 #'
-#' Dataset ex04.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.08
 #' @docType data
@@ -694,9 +694,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.09 data
+#' Data from Exercise 04.09
 #'
-#' Dataset ex04.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.09
 #' @docType data
@@ -706,9 +706,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.10 data
+#' Data from Exercise 04.10
 #'
-#' Dataset ex04.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.10
 #' @docType data
@@ -718,9 +718,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.12 data
+#' Data from Exercise 04.12
 #'
-#' Dataset ex04.12 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.12 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.12
 #' @docType data
@@ -730,9 +730,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.13 data
+#' Data from Exercise 04.13
 #'
-#' Dataset ex04.13 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.13 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.13
 #' @docType data
@@ -742,9 +742,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.23 data
+#' Data from Exercise 04.23
 #'
-#' Dataset ex04.23 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.23 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.23
 #' @docType data
@@ -754,9 +754,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.26 data
+#' Data from Exercise 04.26
 #'
-#' Dataset ex04.26 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.26 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.26
 #' @docType data
@@ -766,9 +766,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.27 data
+#' Data from Exercise 04.27
 #'
-#' Dataset ex04.27 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.27 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.27
 #' @docType data
@@ -778,9 +778,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.28 data
+#' Data from Exercise 04.28
 #'
-#' Dataset ex04.28 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.28 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.28
 #' @docType data
@@ -790,9 +790,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.29 data
+#' Data from Exercise 04.29
 #'
-#' Dataset ex04.29 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.29 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.29
 #' @docType data
@@ -802,9 +802,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.30 data
+#' Data from Exercise 04.30
 #'
-#' Dataset ex04.30 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.30 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.30
 #' @docType data
@@ -814,9 +814,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.32 data
+#' Data from Exercise 04.32
 #'
-#' Dataset ex04.32 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.32 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.32
 #' @docType data
@@ -826,9 +826,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.33 data
+#' Data from Exercise 04.33
 #'
-#' Dataset ex04.33 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.33 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.33
 #' @docType data
@@ -838,9 +838,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.35 data
+#' Data from Exercise 04.35
 #'
-#' Dataset ex04.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.35
 #' @docType data
@@ -850,9 +850,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.42 data
+#' Data from Exercise 04.42
 #'
-#' Dataset ex04.42 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.42 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.42
 #' @docType data
@@ -862,9 +862,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.43 data
+#' Data from Exercise 04.43
 #'
-#' Dataset ex04.43 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.43 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.43
 #' @docType data
@@ -874,9 +874,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.44 data
+#' Data from Exercise 04.44
 #'
-#' Dataset ex04.44 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.44 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.44
 #' @docType data
@@ -886,9 +886,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex04.45 data
+#' Data from Exercise 04.45
 #'
-#' Dataset ex04.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 04.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex04.45
 #' @docType data
@@ -898,9 +898,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta04.01 data
+#' Data from Table 04.01
 #'
-#' Dataset ta04.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 04.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta04.01
 #' @docType data
@@ -910,9 +910,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta04.02 data
+#' Data from Table 04.02
 #'
-#' Dataset ta04.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 04.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta04.02
 #' @docType data
@@ -922,9 +922,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta04.03 data
+#' Data from Table 04.03
 #'
-#' Dataset ta04.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 04.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta04.03
 #' @docType data
@@ -934,9 +934,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg05.01 data
+#' Data from Example 05.01
 #'
-#' Dataset eg05.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 05.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg05.01
 #' @docType data
@@ -946,9 +946,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg05.05 data
+#' Data from Example 05.05
 #'
-#' Dataset eg05.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 05.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg05.05
 #' @docType data
@@ -958,9 +958,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.03 data
+#' Data from Exercise 05.03
 #'
-#' Dataset ex05.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.03
 #' @docType data
@@ -970,9 +970,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.04 data
+#' Data from Exercise 05.04
 #'
-#' Dataset ex05.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.04
 #' @docType data
@@ -982,9 +982,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.06 data
+#' Data from Exercise 05.06
 #'
-#' Dataset ex05.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.06
 #' @docType data
@@ -994,9 +994,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.08 data
+#' Data from Exercise 05.08
 #'
-#' Dataset ex05.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.08
 #' @docType data
@@ -1006,9 +1006,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.10 data
+#' Data from Exercise 05.10
 #'
-#' Dataset ex05.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.10
 #' @docType data
@@ -1018,9 +1018,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.11 data
+#' Data from Exercise 05.11
 #'
-#' Dataset ex05.11 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.11 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.11
 #' @docType data
@@ -1030,9 +1030,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.12 data
+#' Data from Exercise 05.12
 #'
-#' Dataset ex05.12 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.12 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.12
 #' @docType data
@@ -1042,9 +1042,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.26 data
+#' Data from Exercise 05.26
 #'
-#' Dataset ex05.26 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.26 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.26
 #' @docType data
@@ -1054,9 +1054,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.29 data
+#' Data from Exercise 05.29
 #'
-#' Dataset ex05.29 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.29 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.29
 #' @docType data
@@ -1066,9 +1066,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.30 data
+#' Data from Exercise 05.30
 #'
-#' Dataset ex05.30 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.30 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.30
 #' @docType data
@@ -1078,9 +1078,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.34 data
+#' Data from Exercise 05.34
 #'
-#' Dataset ex05.34 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.34 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.34
 #' @docType data
@@ -1090,9 +1090,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.35 data
+#' Data from Exercise 05.35
 #'
-#' Dataset ex05.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.35
 #' @docType data
@@ -1102,9 +1102,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.36 data
+#' Data from Exercise 05.36
 #'
-#' Dataset ex05.36 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.36 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.36
 #' @docType data
@@ -1114,9 +1114,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.37 data
+#' Data from Exercise 05.37
 #'
-#' Dataset ex05.37 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.37 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.37
 #' @docType data
@@ -1126,9 +1126,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.40 data
+#' Data from Exercise 05.40
 #'
-#' Dataset ex05.40 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.40 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.40
 #' @docType data
@@ -1138,9 +1138,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.51 data
+#' Data from Exercise 05.51
 #'
-#' Dataset ex05.51 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.51 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.51
 #' @docType data
@@ -1150,9 +1150,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.53 data
+#' Data from Exercise 05.53
 #'
-#' Dataset ex05.53 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.53 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.53
 #' @docType data
@@ -1162,9 +1162,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.54 data
+#' Data from Exercise 05.54
 #'
-#' Dataset ex05.54 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.54 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.54
 #' @docType data
@@ -1174,9 +1174,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.55 data
+#' Data from Exercise 05.55
 #'
-#' Dataset ex05.55 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.55 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.55
 #' @docType data
@@ -1186,9 +1186,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex05.56 data
+#' Data from Exercise 05.56
 #'
-#' Dataset ex05.56 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 05.56 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex05.56
 #' @docType data
@@ -1198,9 +1198,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta05.01a data
+#' Data from Table 05.01a
 #'
-#' Dataset ta05.01a from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 05.01a of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta05.01a
 #' @docType data
@@ -1210,9 +1210,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta05.01b data
+#' Data from Table 05.01b
 #'
-#' Dataset ta05.01b from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 05.01b of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta05.01b
 #' @docType data
@@ -1222,9 +1222,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta05.01c data
+#' Data from Table 05.01c
 #'
-#' Dataset ta05.01c from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 05.01c of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta05.01c
 #' @docType data
@@ -1234,9 +1234,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta05.01d data
+#' Data from Table 05.01d
 #'
-#' Dataset ta05.01d from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 05.01d of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta05.01d
 #' @docType data
@@ -1246,9 +1246,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta05.02 data
+#' Data from Table 05.02
 #'
-#' Dataset ta05.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 05.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta05.02
 #' @docType data
@@ -1258,9 +1258,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta05.03 data
+#' Data from Table 05.03
 #'
-#' Dataset ta05.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 05.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta05.03
 #' @docType data
@@ -1270,9 +1270,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex06.01 data
+#' Data from Exercise 06.01
 #'
-#' Dataset ex06.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 06.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex06.01
 #' @docType data
@@ -1282,9 +1282,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex06.02 data
+#' Data from Exercise 06.02
 #'
-#' Dataset ex06.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 06.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex06.02
 #' @docType data
@@ -1294,9 +1294,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex06.18 data
+#' Data from Exercise 06.18
 #'
-#' Dataset ex06.18 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 06.18 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex06.18
 #' @docType data
@@ -1306,9 +1306,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex06.19 data
+#' Data from Exercise 06.19
 #'
-#' Dataset ex06.19 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 06.19 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex06.19
 #' @docType data
@@ -1318,9 +1318,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex06.27 data
+#' Data from Exercise 06.27
 #'
-#' Dataset ex06.27 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 06.27 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex06.27
 #' @docType data
@@ -1330,9 +1330,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex06.28 data
+#' Data from Exercise 06.28
 #'
-#' Dataset ex06.28 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 06.28 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex06.28
 #' @docType data
@@ -1342,9 +1342,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex06.30 data
+#' Data from Exercise 06.30
 #'
-#' Dataset ex06.30 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 06.30 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex06.30
 #' @docType data
@@ -1354,9 +1354,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex06.31 data
+#' Data from Exercise 06.31
 #'
-#' Dataset ex06.31 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 06.31 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex06.31
 #' @docType data
@@ -1366,9 +1366,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta06.01 data
+#' Data from Table 06.01
 #'
-#' Dataset ta06.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 06.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta06.01
 #' @docType data
@@ -1378,9 +1378,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta06.02 data
+#' Data from Table 06.02
 #'
-#' Dataset ta06.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 06.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta06.02
 #' @docType data
@@ -1390,9 +1390,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.03 data
+#' Data from Exercise 07.03
 #'
-#' Dataset ex07.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.03
 #' @docType data
@@ -1402,9 +1402,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.04 data
+#' Data from Exercise 07.04
 #'
-#' Dataset ex07.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.04
 #' @docType data
@@ -1414,9 +1414,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.05 data
+#' Data from Exercise 07.05
 #'
-#' Dataset ex07.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.05
 #' @docType data
@@ -1426,9 +1426,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.06 data
+#' Data from Exercise 07.06
 #'
-#' Dataset ex07.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.06
 #' @docType data
@@ -1438,9 +1438,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.07 data
+#' Data from Exercise 07.07
 #'
-#' Dataset ex07.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.07
 #' @docType data
@@ -1450,9 +1450,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.08 data
+#' Data from Exercise 07.08
 #'
-#' Dataset ex07.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.08
 #' @docType data
@@ -1462,9 +1462,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.09a data
+#' Data from Exercise 07.09a
 #'
-#' Dataset ex07.09a from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.09a of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.09a
 #' @docType data
@@ -1474,9 +1474,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.09b data
+#' Data from Exercise 07.09b
 #'
-#' Dataset ex07.09b from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.09b of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.09b
 #' @docType data
@@ -1486,9 +1486,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.10a data
+#' Data from Exercise 07.10a
 #'
-#' Dataset ex07.10a from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.10a of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.10a
 #' @docType data
@@ -1498,9 +1498,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.10b data
+#' Data from Exercise 07.10b
 #'
-#' Dataset ex07.10b from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.10b of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.10b
 #' @docType data
@@ -1510,9 +1510,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.19 data
+#' Data from Exercise 07.19
 #'
-#' Dataset ex07.19 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.19 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.19
 #' @docType data
@@ -1522,9 +1522,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.22 data
+#' Data from Exercise 07.22
 #'
-#' Dataset ex07.22 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.22 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.22
 #' @docType data
@@ -1534,9 +1534,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.23 data
+#' Data from Exercise 07.23
 #'
-#' Dataset ex07.23 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.23 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.23
 #' @docType data
@@ -1546,9 +1546,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.24 data
+#' Data from Exercise 07.24
 #'
-#' Dataset ex07.24 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.24 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.24
 #' @docType data
@@ -1558,9 +1558,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.25 data
+#' Data from Exercise 07.25
 #'
-#' Dataset ex07.25 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.25 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.25
 #' @docType data
@@ -1570,9 +1570,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.32 data
+#' Data from Exercise 07.32
 #'
-#' Dataset ex07.32 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.32 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.32
 #' @docType data
@@ -1582,9 +1582,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.34 data
+#' Data from Exercise 07.34
 #'
-#' Dataset ex07.34 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.34 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.34
 #' @docType data
@@ -1594,9 +1594,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.40 data
+#' Data from Exercise 07.40
 #'
-#' Dataset ex07.40 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.40 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.40
 #' @docType data
@@ -1606,9 +1606,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.41 data
+#' Data from Exercise 07.41
 #'
-#' Dataset ex07.41 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.41 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.41
 #' @docType data
@@ -1618,9 +1618,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.43 data
+#' Data from Exercise 07.43
 #'
-#' Dataset ex07.43 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.43 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.43
 #' @docType data
@@ -1630,9 +1630,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.45 data
+#' Data from Exercise 07.45
 #'
-#' Dataset ex07.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.45
 #' @docType data
@@ -1642,9 +1642,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.46 data
+#' Data from Exercise 07.46
 #'
-#' Dataset ex07.46 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.46 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.46
 #' @docType data
@@ -1654,9 +1654,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.47 data
+#' Data from Exercise 07.47
 #'
-#' Dataset ex07.47 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.47 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.47
 #' @docType data
@@ -1666,9 +1666,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.48 data
+#' Data from Exercise 07.48
 #'
-#' Dataset ex07.48 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.48 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.48
 #' @docType data
@@ -1678,9 +1678,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex07.50 data
+#' Data from Exercise 07.50
 #'
-#' Dataset ex07.50 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 07.50 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex07.50
 #' @docType data
@@ -1690,9 +1690,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta07.01 data
+#' Data from Table 07.01
 #'
-#' Dataset ta07.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 07.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta07.01
 #' @docType data
@@ -1702,9 +1702,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta07.02 data
+#' Data from Table 07.02
 #'
-#' Dataset ta07.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 07.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta07.02
 #' @docType data
@@ -1714,9 +1714,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta07.03 data
+#' Data from Table 07.03
 #'
-#' Dataset ta07.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 07.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta07.03
 #' @docType data
@@ -1726,9 +1726,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta07.04 data
+#' Data from Table 07.04
 #'
-#' Dataset ta07.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 07.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta07.04
 #' @docType data
@@ -1738,9 +1738,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta07.xx data
+#' Data from Table 07.xx
 #'
-#' Dataset ta07.xx from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 07.xx of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta07.xx
 #' @docType data
@@ -1750,9 +1750,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' fig11.4a data
+#' Data from Figure 11.4a
 #'
-#' Dataset fig11.4a from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Figure 11.4a of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name fig11.4a
 #' @docType data
@@ -1762,9 +1762,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' fig11.4b data
+#' Data from Figure 11.4b
 #'
-#' Dataset fig11.4b from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Figure 11.4b of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name fig11.4b
 #' @docType data
@@ -1774,9 +1774,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg14.03 data
+#' Data from Example 14.03
 #'
-#' Dataset eg14.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 14.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg14.03
 #' @docType data
@@ -1786,9 +1786,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg14.05 data
+#' Data from Example 14.05
 #'
-#' Dataset eg14.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 14.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg14.05
 #' @docType data
@@ -1798,9 +1798,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.04 data
+#' Data from Exercise 14.04
 #'
-#' Dataset ex14.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.04
 #' @docType data
@@ -1810,9 +1810,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.05 data
+#' Data from Exercise 14.05
 #'
-#' Dataset ex14.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.05
 #' @docType data
@@ -1822,9 +1822,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.19 data
+#' Data from Exercise 14.19
 #'
-#' Dataset ex14.19 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.19 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.19
 #' @docType data
@@ -1834,9 +1834,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.20 data
+#' Data from Exercise 14.20
 #'
-#' Dataset ex14.20 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.20 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.20
 #' @docType data
@@ -1846,9 +1846,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.50 data
+#' Data from Exercise 14.50
 #'
-#' Dataset ex14.50 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.50 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.50
 #' @docType data
@@ -1858,9 +1858,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.51 data
+#' Data from Exercise 14.51
 #'
-#' Dataset ex14.51 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.51 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.51
 #' @docType data
@@ -1870,9 +1870,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.52 data
+#' Data from Exercise 14.52
 #'
-#' Dataset ex14.52 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.52 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.52
 #' @docType data
@@ -1882,9 +1882,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.53 data
+#' Data from Exercise 14.53
 #'
-#' Dataset ex14.53 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.53 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.53
 #' @docType data
@@ -1894,9 +1894,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.54 data
+#' Data from Exercise 14.54
 #'
-#' Dataset ex14.54 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.54 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.54
 #' @docType data
@@ -1906,9 +1906,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.55 data
+#' Data from Exercise 14.55
 #'
-#' Dataset ex14.55 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.55 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.55
 #' @docType data
@@ -1918,9 +1918,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex14.56 data
+#' Data from Exercise 14.56
 #'
-#' Dataset ex14.56 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 14.56 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex14.56
 #' @docType data
@@ -1930,9 +1930,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex15.36 data
+#' Data from Exercise 15.36
 #'
-#' Dataset ex15.36 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 15.36 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex15.36
 #' @docType data
@@ -1942,9 +1942,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex15.41 data
+#' Data from Exercise 15.41
 #'
-#' Dataset ex15.41 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 15.41 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex15.41
 #' @docType data
@@ -1954,9 +1954,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex16.45 data
+#' Data from Exercise 16.45
 #'
-#' Dataset ex16.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 16.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex16.45
 #' @docType data
@@ -1966,9 +1966,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg17.02 data
+#' Data from Example 17.02
 #'
-#' Dataset eg17.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 17.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg17.02
 #' @docType data
@@ -1978,9 +1978,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg17.03 data
+#' Data from Example 17.03
 #'
-#' Dataset eg17.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 17.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg17.03
 #' @docType data
@@ -1990,9 +1990,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.02 data
+#' Data from Exercise 17.02
 #'
-#' Dataset ex17.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.02
 #' @docType data
@@ -2002,9 +2002,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.06 data
+#' Data from Exercise 17.06
 #'
-#' Dataset ex17.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.06
 #' @docType data
@@ -2014,9 +2014,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.07 data
+#' Data from Exercise 17.07
 #'
-#' Dataset ex17.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.07
 #' @docType data
@@ -2026,9 +2026,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.10 data
+#' Data from Exercise 17.10
 #'
-#' Dataset ex17.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.10
 #' @docType data
@@ -2038,9 +2038,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.27 data
+#' Data from Exercise 17.27
 #'
-#' Dataset ex17.27 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.27 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.27
 #' @docType data
@@ -2050,9 +2050,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.30 data
+#' Data from Exercise 17.30
 #'
-#' Dataset ex17.30 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.30 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.30
 #' @docType data
@@ -2062,9 +2062,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.31 data
+#' Data from Exercise 17.31
 #'
-#' Dataset ex17.31 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.31 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.31
 #' @docType data
@@ -2074,9 +2074,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.32 data
+#' Data from Exercise 17.32
 #'
-#' Dataset ex17.32 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.32 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.32
 #' @docType data
@@ -2086,9 +2086,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.33 data
+#' Data from Exercise 17.33
 #'
-#' Dataset ex17.33 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.33 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.33
 #' @docType data
@@ -2098,9 +2098,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.34 data
+#' Data from Exercise 17.34
 #'
-#' Dataset ex17.34 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.34 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.34
 #' @docType data
@@ -2110,9 +2110,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.35 data
+#' Data from Exercise 17.35
 #'
-#' Dataset ex17.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.35
 #' @docType data
@@ -2122,9 +2122,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.36 data
+#' Data from Exercise 17.36
 #'
-#' Dataset ex17.36 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.36 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.36
 #' @docType data
@@ -2134,9 +2134,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.37 data
+#' Data from Exercise 17.37
 #'
-#' Dataset ex17.37 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.37 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.37
 #' @docType data
@@ -2146,9 +2146,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.38 data
+#' Data from Exercise 17.38
 #'
-#' Dataset ex17.38 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.38 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.38
 #' @docType data
@@ -2158,9 +2158,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.39 data
+#' Data from Exercise 17.39
 #'
-#' Dataset ex17.39 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.39 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.39
 #' @docType data
@@ -2170,9 +2170,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.40 data
+#' Data from Exercise 17.40
 #'
-#' Dataset ex17.40 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.40 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.40
 #' @docType data
@@ -2182,9 +2182,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.41 data
+#' Data from Exercise 17.41
 #'
-#' Dataset ex17.41 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.41 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.41
 #' @docType data
@@ -2194,9 +2194,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex17.42 data
+#' Data from Exercise 17.42
 #'
-#' Dataset ex17.42 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 17.42 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex17.42
 #' @docType data
@@ -2206,9 +2206,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta17.01 data
+#' Data from Table 17.01
 #'
-#' Dataset ta17.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 17.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta17.01
 #' @docType data
@@ -2218,9 +2218,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta17.02 data
+#' Data from Table 17.02
 #'
-#' Dataset ta17.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 17.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta17.02
 #' @docType data
@@ -2230,9 +2230,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta17.03 data
+#' Data from Table 17.03
 #'
-#' Dataset ta17.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 17.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta17.03
 #' @docType data
@@ -2242,9 +2242,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta17.04 data
+#' Data from Table 17.04
 #'
-#' Dataset ta17.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 17.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta17.04
 #' @docType data
@@ -2254,9 +2254,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta17.05 data
+#' Data from Table 17.05
 #'
-#' Dataset ta17.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 17.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta17.05
 #' @docType data
@@ -2266,9 +2266,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta17.06 data
+#' Data from Table 17.06
 #'
-#' Dataset ta17.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 17.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta17.06
 #' @docType data
@@ -2278,9 +2278,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.05 data
+#' Data from Exercise 18.05
 #'
-#' Dataset ex18.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.05
 #' @docType data
@@ -2290,9 +2290,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.08 data
+#' Data from Exercise 18.08
 #'
-#' Dataset ex18.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.08
 #' @docType data
@@ -2302,9 +2302,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.10 data
+#' Data from Exercise 18.10
 #'
-#' Dataset ex18.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.10
 #' @docType data
@@ -2314,9 +2314,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.11 data
+#' Data from Exercise 18.11
 #'
-#' Dataset ex18.11 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.11 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.11
 #' @docType data
@@ -2326,9 +2326,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.12 data
+#' Data from Exercise 18.12
 #'
-#' Dataset ex18.12 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.12 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.12
 #' @docType data
@@ -2338,9 +2338,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.35 data
+#' Data from Exercise 18.35
 #'
-#' Dataset ex18.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.35
 #' @docType data
@@ -2350,9 +2350,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.36 data
+#' Data from Exercise 18.36
 #'
-#' Dataset ex18.36 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.36 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.36
 #' @docType data
@@ -2362,9 +2362,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.37 data
+#' Data from Exercise 18.37
 #'
-#' Dataset ex18.37 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.37 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.37
 #' @docType data
@@ -2374,9 +2374,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.38 data
+#' Data from Exercise 18.38
 #'
-#' Dataset ex18.38 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.38 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.38
 #' @docType data
@@ -2386,9 +2386,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.39 data
+#' Data from Exercise 18.39
 #'
-#' Dataset ex18.39 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.39 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.39
 #' @docType data
@@ -2398,9 +2398,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.40 data
+#' Data from Exercise 18.40
 #'
-#' Dataset ex18.40 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.40 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.40
 #' @docType data
@@ -2410,9 +2410,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.41 data
+#' Data from Exercise 18.41
 #'
-#' Dataset ex18.41 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.41 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.41
 #' @docType data
@@ -2422,9 +2422,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.43 data
+#' Data from Exercise 18.43
 #'
-#' Dataset ex18.43 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.43 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.43
 #' @docType data
@@ -2434,9 +2434,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.45 data
+#' Data from Exercise 18.45
 #'
-#' Dataset ex18.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.45
 #' @docType data
@@ -2446,9 +2446,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.46 data
+#' Data from Exercise 18.46
 #'
-#' Dataset ex18.46 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.46 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.46
 #' @docType data
@@ -2458,9 +2458,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex18.49 data
+#' Data from Exercise 18.49
 #'
-#' Dataset ex18.49 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 18.49 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex18.49
 #' @docType data
@@ -2470,9 +2470,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta18.01 data
+#' Data from Table 18.01
 #'
-#' Dataset ta18.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 18.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta18.01
 #' @docType data
@@ -2482,9 +2482,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta18.02 data
+#' Data from Table 18.02
 #'
-#' Dataset ta18.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 18.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta18.02
 #' @docType data
@@ -2494,9 +2494,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta18.03 data
+#' Data from Table 18.03
 #'
-#' Dataset ta18.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 18.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta18.03
 #' @docType data
@@ -2506,9 +2506,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta18.04 data
+#' Data from Table 18.04
 #'
-#' Dataset ta18.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 18.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta18.04
 #' @docType data
@@ -2518,9 +2518,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex21.41 data
+#' Data from Exercise 21.41
 #'
-#' Dataset ex21.41 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 21.41 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex21.41
 #' @docType data
@@ -2530,9 +2530,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex21.42 data
+#' Data from Exercise 21.42
 #'
-#' Dataset ex21.42 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 21.42 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex21.42
 #' @docType data
@@ -2542,9 +2542,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex21.45 data
+#' Data from Exercise 21.45
 #'
-#' Dataset ex21.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 21.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex21.45
 #' @docType data
@@ -2554,9 +2554,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex21.48 data
+#' Data from Exercise 21.48
 #'
-#' Dataset ex21.48 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 21.48 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex21.48
 #' @docType data
@@ -2566,9 +2566,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex21.50 data
+#' Data from Exercise 21.50
 #'
-#' Dataset ex21.50 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 21.50 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex21.50
 #' @docType data
@@ -2578,9 +2578,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta21.01 data
+#' Data from Table 21.01
 #'
-#' Dataset ta21.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 21.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta21.01
 #' @docType data
@@ -2590,9 +2590,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg22.01 data
+#' Data from Example 22.01
 #'
-#' Dataset eg22.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 22.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg22.01
 #' @docType data
@@ -2602,9 +2602,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg22.05 data
+#' Data from Example 22.05
 #'
-#' Dataset eg22.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 22.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg22.05
 #' @docType data
@@ -2614,9 +2614,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg22.07 data
+#' Data from Example 22.07
 #'
-#' Dataset eg22.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 22.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg22.07
 #' @docType data
@@ -2626,9 +2626,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.01 data
+#' Data from Exercise 22.01
 #'
-#' Dataset ex22.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.01
 #' @docType data
@@ -2638,9 +2638,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.02 data
+#' Data from Exercise 22.02
 #'
-#' Dataset ex22.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.02
 #' @docType data
@@ -2650,9 +2650,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.03 data
+#' Data from Exercise 22.03
 #'
-#' Dataset ex22.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.03
 #' @docType data
@@ -2662,9 +2662,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.04 data
+#' Data from Exercise 22.04
 #'
-#' Dataset ex22.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.04
 #' @docType data
@@ -2674,9 +2674,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.05 data
+#' Data from Exercise 22.05
 #'
-#' Dataset ex22.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.05
 #' @docType data
@@ -2686,9 +2686,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.06 data
+#' Data from Exercise 22.06
 #'
-#' Dataset ex22.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.06
 #' @docType data
@@ -2698,9 +2698,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.07 data
+#' Data from Exercise 22.07
 #'
-#' Dataset ex22.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.07
 #' @docType data
@@ -2710,9 +2710,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.08 data
+#' Data from Exercise 22.08
 #'
-#' Dataset ex22.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.08
 #' @docType data
@@ -2722,9 +2722,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.09 data
+#' Data from Exercise 22.09
 #'
-#' Dataset ex22.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.09
 #' @docType data
@@ -2734,9 +2734,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.10 data
+#' Data from Exercise 22.10
 #'
-#' Dataset ex22.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.10
 #' @docType data
@@ -2746,9 +2746,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.14 data
+#' Data from Exercise 22.14
 #'
-#' Dataset ex22.14 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.14 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.14
 #' @docType data
@@ -2758,9 +2758,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.18 data
+#' Data from Exercise 22.18
 #'
-#' Dataset ex22.18 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.18 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.18
 #' @docType data
@@ -2770,9 +2770,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.19 data
+#' Data from Exercise 22.19
 #'
-#' Dataset ex22.19 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.19 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.19
 #' @docType data
@@ -2782,9 +2782,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.28 data
+#' Data from Exercise 22.28
 #'
-#' Dataset ex22.28 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.28 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.28
 #' @docType data
@@ -2794,9 +2794,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.29 data
+#' Data from Exercise 22.29
 #'
-#' Dataset ex22.29 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.29 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.29
 #' @docType data
@@ -2806,9 +2806,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.34 data
+#' Data from Exercise 22.34
 #'
-#' Dataset ex22.34 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.34 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.34
 #' @docType data
@@ -2818,9 +2818,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.35 data
+#' Data from Exercise 22.35
 #'
-#' Dataset ex22.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.35
 #' @docType data
@@ -2830,9 +2830,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.36 data
+#' Data from Exercise 22.36
 #'
-#' Dataset ex22.36 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.36 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.36
 #' @docType data
@@ -2842,9 +2842,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.40 data
+#' Data from Exercise 22.40
 #'
-#' Dataset ex22.40 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.40 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.40
 #' @docType data
@@ -2854,9 +2854,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.41 data
+#' Data from Exercise 22.41
 #'
-#' Dataset ex22.41 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.41 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.41
 #' @docType data
@@ -2866,9 +2866,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.42 data
+#' Data from Exercise 22.42
 #'
-#' Dataset ex22.42 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.42 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.42
 #' @docType data
@@ -2878,9 +2878,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.43 data
+#' Data from Exercise 22.43
 #'
-#' Dataset ex22.43 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.43 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.43
 #' @docType data
@@ -2890,9 +2890,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.44 data
+#' Data from Exercise 22.44
 #'
-#' Dataset ex22.44 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.44 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.44
 #' @docType data
@@ -2902,9 +2902,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.45 data
+#' Data from Exercise 22.45
 #'
-#' Dataset ex22.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.45
 #' @docType data
@@ -2914,9 +2914,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.47 data
+#' Data from Exercise 22.47
 #'
-#' Dataset ex22.47 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.47 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.47
 #' @docType data
@@ -2926,9 +2926,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex22.48 data
+#' Data from Exercise 22.48
 #'
-#' Dataset ex22.48 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 22.48 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex22.48
 #' @docType data
@@ -2938,9 +2938,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta22.01 data
+#' Data from Table 22.01
 #'
-#' Dataset ta22.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 22.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta22.01
 #' @docType data
@@ -2950,9 +2950,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg23.03 data
+#' Data from Example 23.03
 #'
-#' Dataset eg23.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 23.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg23.03
 #' @docType data
@@ -2962,9 +2962,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg23.07 data
+#' Data from Example 23.07
 #'
-#' Dataset eg23.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 23.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg23.07
 #' @docType data
@@ -2974,9 +2974,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg23.09 data
+#' Data from Example 23.09
 #'
-#' Dataset eg23.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 23.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg23.09
 #' @docType data
@@ -2986,9 +2986,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.01 data
+#' Data from Exercise 23.01
 #'
-#' Dataset ex23.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.01
 #' @docType data
@@ -2998,9 +2998,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.02 data
+#' Data from Exercise 23.02
 #'
-#' Dataset ex23.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.02
 #' @docType data
@@ -3010,9 +3010,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.06 data
+#' Data from Exercise 23.06
 #'
-#' Dataset ex23.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.06
 #' @docType data
@@ -3022,9 +3022,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.07 data
+#' Data from Exercise 23.07
 #'
-#' Dataset ex23.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.07
 #' @docType data
@@ -3034,9 +3034,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.08 data
+#' Data from Exercise 23.08
 #'
-#' Dataset ex23.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.08
 #' @docType data
@@ -3046,9 +3046,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.09 data
+#' Data from Exercise 23.09
 #'
-#' Dataset ex23.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.09
 #' @docType data
@@ -3058,9 +3058,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.10 data
+#' Data from Exercise 23.10
 #'
-#' Dataset ex23.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.10
 #' @docType data
@@ -3070,9 +3070,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.14 data
+#' Data from Exercise 23.14
 #'
-#' Dataset ex23.14 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.14 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.14
 #' @docType data
@@ -3082,9 +3082,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.15 data
+#' Data from Exercise 23.15
 #'
-#' Dataset ex23.15 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.15 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.15
 #' @docType data
@@ -3094,9 +3094,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.28 data
+#' Data from Exercise 23.28
 #'
-#' Dataset ex23.28 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.28 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.28
 #' @docType data
@@ -3106,9 +3106,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.29 data
+#' Data from Exercise 23.29
 #'
-#' Dataset ex23.29 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.29 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.29
 #' @docType data
@@ -3118,9 +3118,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.32 data
+#' Data from Exercise 23.32
 #'
-#' Dataset ex23.32 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.32 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.32
 #' @docType data
@@ -3130,9 +3130,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.33 data
+#' Data from Exercise 23.33
 #'
-#' Dataset ex23.33 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.33 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.33
 #' @docType data
@@ -3142,9 +3142,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.34 data
+#' Data from Exercise 23.34
 #'
-#' Dataset ex23.34 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.34 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.34
 #' @docType data
@@ -3154,9 +3154,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.36 data
+#' Data from Exercise 23.36
 #'
-#' Dataset ex23.36 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.36 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.36
 #' @docType data
@@ -3166,9 +3166,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.37 data
+#' Data from Exercise 23.37
 #'
-#' Dataset ex23.37 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.37 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.37
 #' @docType data
@@ -3178,9 +3178,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.38 data
+#' Data from Exercise 23.38
 #'
-#' Dataset ex23.38 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.38 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.38
 #' @docType data
@@ -3190,9 +3190,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.39 data
+#' Data from Exercise 23.39
 #'
-#' Dataset ex23.39 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.39 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.39
 #' @docType data
@@ -3202,9 +3202,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.41 data
+#' Data from Exercise 23.41
 #'
-#' Dataset ex23.41 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.41 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.41
 #' @docType data
@@ -3214,9 +3214,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.42 data
+#' Data from Exercise 23.42
 #'
-#' Dataset ex23.42 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.42 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.42
 #' @docType data
@@ -3226,9 +3226,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.43 data
+#' Data from Exercise 23.43
 #'
-#' Dataset ex23.43 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.43 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.43
 #' @docType data
@@ -3238,9 +3238,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.44 data
+#' Data from Exercise 23.44
 #'
-#' Dataset ex23.44 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.44 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.44
 #' @docType data
@@ -3250,9 +3250,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.45 data
+#' Data from Exercise 23.45
 #'
-#' Dataset ex23.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.45
 #' @docType data
@@ -3262,9 +3262,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex23.46 data
+#' Data from Exercise 23.46
 #'
-#' Dataset ex23.46 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 23.46 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex23.46
 #' @docType data
@@ -3274,9 +3274,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta23.01 data
+#' Data from Table 23.01
 #'
-#' Dataset ta23.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 23.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta23.01
 #' @docType data
@@ -3286,9 +3286,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta23.02 data
+#' Data from Table 23.02
 #'
-#' Dataset ta23.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 23.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta23.02
 #' @docType data
@@ -3298,9 +3298,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta23.03 data
+#' Data from Table 23.03
 #'
-#' Dataset ta23.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 23.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta23.03
 #' @docType data
@@ -3310,9 +3310,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg24.03 data
+#' Data from Example 24.03
 #'
-#' Dataset eg24.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 24.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg24.03
 #' @docType data
@@ -3322,9 +3322,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex24.09 data
+#' Data from Exercise 24.09
 #'
-#' Dataset ex24.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 24.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex24.09
 #' @docType data
@@ -3334,9 +3334,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex24.18 data
+#' Data from Exercise 24.18
 #'
-#' Dataset ex24.18 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 24.18 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex24.18
 #' @docType data
@@ -3346,9 +3346,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex24.30 data
+#' Data from Exercise 24.30
 #'
-#' Dataset ex24.30 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 24.30 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex24.30
 #' @docType data
@@ -3358,9 +3358,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex24.32 data
+#' Data from Exercise 24.32
 #'
-#' Dataset ex24.32 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 24.32 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex24.32
 #' @docType data
@@ -3370,9 +3370,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex24.34 data
+#' Data from Exercise 24.34
 #'
-#' Dataset ex24.34 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 24.34 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex24.34
 #' @docType data
@@ -3382,9 +3382,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex24.35 data
+#' Data from Exercise 24.35
 #'
-#' Dataset ex24.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 24.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex24.35
 #' @docType data
@@ -3394,9 +3394,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex24.36 data
+#' Data from Exercise 24.36
 #'
-#' Dataset ex24.36 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 24.36 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex24.36
 #' @docType data
@@ -3406,9 +3406,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex24.38 data
+#' Data from Exercise 24.38
 #'
-#' Dataset ex24.38 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 24.38 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex24.38
 #' @docType data
@@ -3418,9 +3418,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta24.01 data
+#' Data from Table 24.01
 #'
-#' Dataset ta24.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 24.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta24.01
 #' @docType data
@@ -3430,9 +3430,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta24.02 data
+#' Data from Table 24.02
 #'
-#' Dataset ta24.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 24.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta24.02
 #' @docType data
@@ -3442,9 +3442,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta24.03 data
+#' Data from Table 24.03
 #'
-#' Dataset ta24.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 24.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta24.03
 #' @docType data
@@ -3454,9 +3454,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta24.04 data
+#' Data from Table 24.04
 #'
-#' Dataset ta24.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 24.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta24.04
 #' @docType data
@@ -3466,9 +3466,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta24.05 data
+#' Data from Table 24.05
 #'
-#' Dataset ta24.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 24.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta24.05
 #' @docType data
@@ -3478,9 +3478,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta24.06 data
+#' Data from Table 24.06
 #'
-#' Dataset ta24.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 24.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta24.06
 #' @docType data
@@ -3490,9 +3490,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg25.01 data
+#' Data from Example 25.01
 #'
-#' Dataset eg25.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 25.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg25.01
 #' @docType data
@@ -3502,9 +3502,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg25.05 data
+#' Data from Example 25.05
 #'
-#' Dataset eg25.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 25.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg25.05
 #' @docType data
@@ -3514,9 +3514,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg25.06 data
+#' Data from Example 25.06
 #'
-#' Dataset eg25.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 25.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg25.06
 #' @docType data
@@ -3526,9 +3526,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg25.09 data
+#' Data from Example 25.09
 #'
-#' Dataset eg25.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 25.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg25.09
 #' @docType data
@@ -3538,9 +3538,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg25.10 data
+#' Data from Example 25.10
 #'
-#' Dataset eg25.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 25.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg25.10
 #' @docType data
@@ -3550,9 +3550,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.01 data
+#' Data from Exercise 25.01
 #'
-#' Dataset ex25.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.01
 #' @docType data
@@ -3562,9 +3562,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.02 data
+#' Data from Exercise 25.02
 #'
-#' Dataset ex25.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.02
 #' @docType data
@@ -3574,9 +3574,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.05 data
+#' Data from Exercise 25.05
 #'
-#' Dataset ex25.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.05
 #' @docType data
@@ -3586,9 +3586,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.06 data
+#' Data from Exercise 25.06
 #'
-#' Dataset ex25.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.06
 #' @docType data
@@ -3598,9 +3598,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.07 data
+#' Data from Exercise 25.07
 #'
-#' Dataset ex25.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.07
 #' @docType data
@@ -3610,9 +3610,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.08 data
+#' Data from Exercise 25.08
 #'
-#' Dataset ex25.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.08
 #' @docType data
@@ -3622,9 +3622,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.11 data
+#' Data from Exercise 25.11
 #'
-#' Dataset ex25.11 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.11 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.11
 #' @docType data
@@ -3634,9 +3634,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.12 data
+#' Data from Exercise 25.12
 #'
-#' Dataset ex25.12 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.12 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.12
 #' @docType data
@@ -3646,9 +3646,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.13 data
+#' Data from Exercise 25.13
 #'
-#' Dataset ex25.13 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.13 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.13
 #' @docType data
@@ -3658,9 +3658,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.14 data
+#' Data from Exercise 25.14
 #'
-#' Dataset ex25.14 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.14 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.14
 #' @docType data
@@ -3670,9 +3670,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.15 data
+#' Data from Exercise 25.15
 #'
-#' Dataset ex25.15 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.15 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.15
 #' @docType data
@@ -3682,9 +3682,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.16 data
+#' Data from Exercise 25.16
 #'
-#' Dataset ex25.16 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.16 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.16
 #' @docType data
@@ -3694,9 +3694,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.18 data
+#' Data from Exercise 25.18
 #'
-#' Dataset ex25.18 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.18 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.18
 #' @docType data
@@ -3706,9 +3706,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.19 data
+#' Data from Exercise 25.19
 #'
-#' Dataset ex25.19 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.19 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.19
 #' @docType data
@@ -3718,9 +3718,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.21 data
+#' Data from Exercise 25.21
 #'
-#' Dataset ex25.21 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.21 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.21
 #' @docType data
@@ -3730,9 +3730,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.22 data
+#' Data from Exercise 25.22
 #'
-#' Dataset ex25.22 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.22 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.22
 #' @docType data
@@ -3742,9 +3742,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.23 data
+#' Data from Exercise 25.23
 #'
-#' Dataset ex25.23 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.23 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.23
 #' @docType data
@@ -3754,9 +3754,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.24 data
+#' Data from Exercise 25.24
 #'
-#' Dataset ex25.24 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.24 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.24
 #' @docType data
@@ -3766,9 +3766,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.25 data
+#' Data from Exercise 25.25
 #'
-#' Dataset ex25.25 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.25 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.25
 #' @docType data
@@ -3778,9 +3778,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.26 data
+#' Data from Exercise 25.26
 #'
-#' Dataset ex25.26 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.26 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.26
 #' @docType data
@@ -3790,9 +3790,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.27 data
+#' Data from Exercise 25.27
 #'
-#' Dataset ex25.27 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.27 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.27
 #' @docType data
@@ -3802,9 +3802,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.28 data
+#' Data from Exercise 25.28
 #'
-#' Dataset ex25.28 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.28 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.28
 #' @docType data
@@ -3814,9 +3814,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.29 data
+#' Data from Exercise 25.29
 #'
-#' Dataset ex25.29 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.29 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.29
 #' @docType data
@@ -3826,9 +3826,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.30 data
+#' Data from Exercise 25.30
 #'
-#' Dataset ex25.30 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.30 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.30
 #' @docType data
@@ -3838,9 +3838,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.42 data
+#' Data from Exercise 25.42
 #'
-#' Dataset ex25.42 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.42 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.42
 #' @docType data
@@ -3850,9 +3850,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.43 data
+#' Data from Exercise 25.43
 #'
-#' Dataset ex25.43 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.43 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.43
 #' @docType data
@@ -3862,9 +3862,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.44 data
+#' Data from Exercise 25.44
 #'
-#' Dataset ex25.44 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.44 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.44
 #' @docType data
@@ -3874,9 +3874,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.45 data
+#' Data from Exercise 25.45
 #'
-#' Dataset ex25.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.45
 #' @docType data
@@ -3886,9 +3886,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.48 data
+#' Data from Exercise 25.48
 #'
-#' Dataset ex25.48 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.48 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.48
 #' @docType data
@@ -3898,9 +3898,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex25.49 data
+#' Data from Exercise 25.49
 #'
-#' Dataset ex25.49 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 25.49 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex25.49
 #' @docType data
@@ -3910,9 +3910,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta25.01 data
+#' Data from Table 25.01
 #'
-#' Dataset ta25.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 25.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta25.01
 #' @docType data
@@ -3922,9 +3922,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex26.04 data
+#' Data from Exercise 26.04
 #'
-#' Dataset ex26.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 26.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex26.04
 #' @docType data
@@ -3934,9 +3934,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex26.15 data
+#' Data from Exercise 26.15
 #'
-#' Dataset ex26.15 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 26.15 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex26.15
 #' @docType data
@@ -3946,9 +3946,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex26.29 data
+#' Data from Exercise 26.29
 #'
-#' Dataset ex26.29 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 26.29 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex26.29
 #' @docType data
@@ -3958,9 +3958,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex26.35 data
+#' Data from Exercise 26.35
 #'
-#' Dataset ex26.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 26.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex26.35
 #' @docType data
@@ -3970,9 +3970,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex26.39 data
+#' Data from Exercise 26.39
 #'
-#' Dataset ex26.39 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 26.39 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex26.39
 #' @docType data
@@ -3982,9 +3982,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex26.43 data
+#' Data from Exercise 26.43
 #'
-#' Dataset ex26.43 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 26.43 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex26.43
 #' @docType data
@@ -3994,9 +3994,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.01 data
+#' Data from Table 26.01
 #'
-#' Dataset ta26.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.01
 #' @docType data
@@ -4006,9 +4006,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.02 data
+#' Data from Table 26.02
 #'
-#' Dataset ta26.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.02
 #' @docType data
@@ -4018,9 +4018,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.04 data
+#' Data from Table 26.04
 #'
-#' Dataset ta26.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.04
 #' @docType data
@@ -4030,9 +4030,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.05 data
+#' Data from Table 26.05
 #'
-#' Dataset ta26.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.05
 #' @docType data
@@ -4042,9 +4042,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.06 data
+#' Data from Table 26.06
 #'
-#' Dataset ta26.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.06
 #' @docType data
@@ -4054,9 +4054,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.07 data
+#' Data from Table 26.07
 #'
-#' Dataset ta26.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.07
 #' @docType data
@@ -4066,9 +4066,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.08 data
+#' Data from Table 26.08
 #'
-#' Dataset ta26.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.08
 #' @docType data
@@ -4078,9 +4078,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.09 data
+#' Data from Table 26.09
 #'
-#' Dataset ta26.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.09
 #' @docType data
@@ -4090,9 +4090,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta26.10 data
+#' Data from Table 26.10
 #'
-#' Dataset ta26.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 26.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta26.10
 #' @docType data
@@ -4102,9 +4102,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg27.11 data
+#' Data from Example 27.11
 #'
-#' Dataset eg27.11 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 27.11 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg27.11
 #' @docType data
@@ -4114,9 +4114,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex27.07 data
+#' Data from Exercise 27.07
 #'
-#' Dataset ex27.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 27.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex27.07
 #' @docType data
@@ -4126,9 +4126,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex27.15 data
+#' Data from Exercise 27.15
 #'
-#' Dataset ex27.15 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 27.15 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex27.15
 #' @docType data
@@ -4138,9 +4138,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex27.45 data
+#' Data from Exercise 27.45
 #'
-#' Dataset ex27.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 27.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex27.45
 #' @docType data
@@ -4150,9 +4150,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex27.48 data
+#' Data from Exercise 27.48
 #'
-#' Dataset ex27.48 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 27.48 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex27.48
 #' @docType data
@@ -4162,9 +4162,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex27.51 data
+#' Data from Exercise 27.51
 #'
-#' Dataset ex27.51 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 27.51 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex27.51
 #' @docType data
@@ -4174,9 +4174,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.01 data
+#' Data from Table 27.01
 #'
-#' Dataset ta27.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.01
 #' @docType data
@@ -4186,9 +4186,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.02 data
+#' Data from Table 27.02
 #'
-#' Dataset ta27.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.02
 #' @docType data
@@ -4198,9 +4198,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.03 data
+#' Data from Table 27.03
 #'
-#' Dataset ta27.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.03
 #' @docType data
@@ -4210,9 +4210,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.04 data
+#' Data from Table 27.04
 #'
-#' Dataset ta27.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.04
 #' @docType data
@@ -4222,9 +4222,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.05 data
+#' Data from Table 27.05
 #'
-#' Dataset ta27.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.05
 #' @docType data
@@ -4234,9 +4234,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.06 data
+#' Data from Table 27.06
 #'
-#' Dataset ta27.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.06
 #' @docType data
@@ -4246,9 +4246,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.07 data
+#' Data from Table 27.07
 #'
-#' Dataset ta27.07 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.07 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.07
 #' @docType data
@@ -4258,9 +4258,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.08 data
+#' Data from Table 27.08
 #'
-#' Dataset ta27.08 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.08 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.08
 #' @docType data
@@ -4270,9 +4270,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.09 data
+#' Data from Table 27.09
 #'
-#' Dataset ta27.09 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.09 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.09
 #' @docType data
@@ -4282,9 +4282,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.10 data
+#' Data from Table 27.10
 #'
-#' Dataset ta27.10 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.10 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.10
 #' @docType data
@@ -4294,9 +4294,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.11 data
+#' Data from Table 27.11
 #'
-#' Dataset ta27.11 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.11 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.11
 #' @docType data
@@ -4306,9 +4306,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.12 data
+#' Data from Table 27.12
 #'
-#' Dataset ta27.12 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.12 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.12
 #' @docType data
@@ -4318,9 +4318,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.13 data
+#' Data from Table 27.13
 #'
-#' Dataset ta27.13 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.13 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.13
 #' @docType data
@@ -4330,9 +4330,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.14 data
+#' Data from Table 27.14
 #'
-#' Dataset ta27.14 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.14 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.14
 #' @docType data
@@ -4342,9 +4342,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.15 data
+#' Data from Table 27.15
 #'
-#' Dataset ta27.15 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.15 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.15
 #' @docType data
@@ -4354,9 +4354,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta27.16 data
+#' Data from Table 27.16
 #'
-#' Dataset ta27.16 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 27.16 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta27.16
 #' @docType data
@@ -4366,9 +4366,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' eg28.14 data
+#' Data from Example 28.14
 #'
-#' Dataset eg28.14 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Example 28.14 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name eg28.14
 #' @docType data
@@ -4378,9 +4378,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.01 data
+#' Data from Exercise 28.01
 #'
-#' Dataset ex28.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.01
 #' @docType data
@@ -4390,9 +4390,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.02 data
+#' Data from Exercise 28.02
 #'
-#' Dataset ex28.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.02
 #' @docType data
@@ -4402,9 +4402,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.04 data
+#' Data from Exercise 28.04
 #'
-#' Dataset ex28.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.04
 #' @docType data
@@ -4414,9 +4414,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.05 data
+#' Data from Exercise 28.05
 #'
-#' Dataset ex28.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.05
 #' @docType data
@@ -4426,9 +4426,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.06 data
+#' Data from Exercise 28.06
 #'
-#' Dataset ex28.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.06
 #' @docType data
@@ -4438,9 +4438,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.12 data
+#' Data from Exercise 28.12
 #'
-#' Dataset ex28.12 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.12 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.12
 #' @docType data
@@ -4450,9 +4450,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.13 data
+#' Data from Exercise 28.13
 #'
-#' Dataset ex28.13 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.13 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.13
 #' @docType data
@@ -4462,9 +4462,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.14 data
+#' Data from Exercise 28.14
 #'
-#' Dataset ex28.14 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.14 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.14
 #' @docType data
@@ -4474,9 +4474,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.15 data
+#' Data from Exercise 28.15
 #'
-#' Dataset ex28.15 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.15 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.15
 #' @docType data
@@ -4486,9 +4486,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.16 data
+#' Data from Exercise 28.16
 #'
-#' Dataset ex28.16 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.16 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.16
 #' @docType data
@@ -4498,9 +4498,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.27 data
+#' Data from Exercise 28.27
 #'
-#' Dataset ex28.27 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.27 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.27
 #' @docType data
@@ -4510,9 +4510,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.28 data
+#' Data from Exercise 28.28
 #'
-#' Dataset ex28.28 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.28 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.28
 #' @docType data
@@ -4522,9 +4522,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.29 data
+#' Data from Exercise 28.29
 #'
-#' Dataset ex28.29 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.29 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.29
 #' @docType data
@@ -4534,9 +4534,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.30 data
+#' Data from Exercise 28.30
 #'
-#' Dataset ex28.30 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.30 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.30
 #' @docType data
@@ -4546,9 +4546,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.31 data
+#' Data from Exercise 28.31
 #'
-#' Dataset ex28.31 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.31 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.31
 #' @docType data
@@ -4558,9 +4558,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.32 data
+#' Data from Exercise 28.32
 #'
-#' Dataset ex28.32 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.32 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.32
 #' @docType data
@@ -4570,9 +4570,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.33 data
+#' Data from Exercise 28.33
 #'
-#' Dataset ex28.33 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.33 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.33
 #' @docType data
@@ -4582,9 +4582,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.35 data
+#' Data from Exercise 28.35
 #'
-#' Dataset ex28.35 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.35 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.35
 #' @docType data
@@ -4594,9 +4594,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.36 data
+#' Data from Exercise 28.36
 #'
-#' Dataset ex28.36 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.36 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.36
 #' @docType data
@@ -4606,9 +4606,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.39 data
+#' Data from Exercise 28.39
 #'
-#' Dataset ex28.39 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.39 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.39
 #' @docType data
@@ -4618,9 +4618,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.42 data
+#' Data from Exercise 28.42
 #'
-#' Dataset ex28.42 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.42 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.42
 #' @docType data
@@ -4630,9 +4630,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ex28.45 data
+#' Data from Exercise 28.45
 #'
-#' Dataset ex28.45 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Exercise 28.45 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ex28.45
 #' @docType data
@@ -4642,9 +4642,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta28.01 data
+#' Data from Table 28.01
 #'
-#' Dataset ta28.01 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 28.01 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta28.01
 #' @docType data
@@ -4654,9 +4654,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta28.02 data
+#' Data from Table 28.02
 #'
-#' Dataset ta28.02 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 28.02 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta28.02
 #' @docType data
@@ -4666,9 +4666,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta28.03 data
+#' Data from Table 28.03
 #'
-#' Dataset ta28.03 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 28.03 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta28.03
 #' @docType data
@@ -4678,9 +4678,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta28.04 data
+#' Data from Table 28.04
 #'
-#' Dataset ta28.04 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 28.04 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta28.04
 #' @docType data
@@ -4690,9 +4690,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta28.05 data
+#' Data from Table 28.05
 #'
-#' Dataset ta28.05 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 28.05 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta28.05
 #' @docType data
@@ -4702,9 +4702,9 @@ NULL
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
 NULL
 
-#' ta28.06 data
+#' Data from Table 28.06
 #'
-#' Dataset ta28.06 from the \emph{The Basic Practice of Statistics}, 5th edition.
+#' Data from Table 28.06 of \emph{The Basic Practice of Statistics}, 5th edition.
 #'
 #' @name ta28.06
 #' @docType data
@@ -4712,149 +4712,5 @@ NULL
 #' @format \Sexpr[results=rd]{bps5data:::doc_data("ta28.06") }
 #' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
 #' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_030/PC-Text.zip }
-NULL
-
-#' bliss data
-#'
-#' Dataset bliss from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name bliss
-#' @docType data
-#' @usage data("bliss")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("bliss") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' call data
-#'
-#' Dataset call from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name call
-#' @docType data
-#' @usage data("call")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("call") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' class data
-#'
-#' Dataset class from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name class
-#' @docType data
-#' @usage data("class")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("class") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' concept data
-#'
-#' Dataset concept from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name concept
-#' @docType data
-#' @usage data("concept")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("concept") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' education data
-#'
-#' Dataset education from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name education
-#' @docType data
-#' @usage data("education")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("education") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' floridavote data
-#'
-#' Dataset floridavote from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name floridavote
-#' @docType data
-#' @usage data("floridavote")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("floridavote") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' foodsafety data
-#'
-#' Dataset foodsafety from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name foodsafety
-#' @docType data
-#' @usage data("foodsafety")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("foodsafety") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' income data
-#'
-#' Dataset income from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name income
-#' @docType data
-#' @usage data("income")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("income") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' literacy data
-#'
-#' Dataset literacy from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name literacy
-#' @docType data
-#' @usage data("literacy")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("literacy") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' newt data
-#'
-#' Dataset newt from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name newt
-#' @docType data
-#' @usage data("newt")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("newt") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' reading data
-#'
-#' Dataset reading from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name reading
-#' @docType data
-#' @usage data("reading")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("reading") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
-NULL
-
-#' verizon data
-#'
-#' Dataset verizon from the \emph{The Basic Practice of Statistics}, 5th edition.
-#'
-#' @name verizon
-#' @docType data
-#' @usage data("verizon")
-#' @format \Sexpr[results=rd]{bps5data:::doc_data("verizon") }
-#' @references Moore, David S. 2009. \emph{The Basic Practice of Statistics}. 5th edition. New York: W. H. Freeman.
-#' @source \url{ http://bcs.whfreeman.com/bps5e/content/cat_110/bps5e_large_datasets.zip }
 NULL
 

@@ -1,2 +1,5 @@
-^data.R\.template$
+^.*\.template$
+^.*\.yaml$
 ^download\.R$
+^.*\.Rproj$
+^\.Rproj\.user$
